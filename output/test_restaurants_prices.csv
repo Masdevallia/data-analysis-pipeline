@@ -1,0 +1,684 @@
+,restaurants,price
+0,Kilian Stuba,90-120 EUR
+1,Pfefferschiff,59-120 EUR
+2,Esszimmer,45-128 EUR
+3,Carpe Diem,61-118 EUR
+4,Edvard,33-158 EUR
+5,Das Loft,59-99 EUR
+6,Pramerl & the Wolf,65-95 EUR
+7,Walter Bauer,52-78 EUR
+8,SHIKI,92-125 EUR
+9,Tian,89-127 EUR
+10,aend,39-120 EUR
+11,Le Ciel by Toni Mörwald,53-145 EUR
+12,Chez TJ,75-150 USD
+13,Protégé,50-75 USD
+14,Madera,50-75 USD
+15,The Village Pub,50-75 USD
+16,Plumed Horse,75-150 USD
+17,Wakuriya,75-150 USD
+18,Sushi Yoshizumi,75-150 USD
+19,Rasa,25-50 USD
+20,Maum,75-150 USD
+21,Al's Place,25-50 USD
+22,Omakase,75-150 USD
+23,Luce,50-75 USD
+24,Birdsong,75-150 USD
+25,In Situ,75-150 USD
+26,Mourad,50-75 USD
+27,Hashiri,75-150 USD
+28,Angler,75-150 USD
+29,Rich Table,50-75 USD
+30,Kin Khao,25-50 USD
+31,Michael Mina,75-150 USD
+32,Sons & Daughters,75-150 USD
+33,Mister Jiu's,50-75 USD
+34,Nico,50-75 USD
+35,jū-ni,75-150 USD
+36,Keiko à Nob Hill,75-150 USD
+37,The Progress,50-75 USD
+38,State Bird Provisions,25-50 USD
+39,Octavia,50-75 USD
+40,SPQR,50-75 USD
+41,Lord Stanley,50-75 USD
+42,Kinjo,75-150 USD
+43,Sorrel,50-75 USD
+44,Gary Danko,75-150 USD
+45,Bar Crenn,50-75 USD
+46,Spruce,50-75 USD
+47,Wako,75-150 USD
+48,Madcap,75-150 USD
+49,Aubergine,75-150 USD
+50,Kenzo,75-150 USD
+51,La Toque,75-150 USD
+52,Bouchon,50-75 USD
+53,Auberge du Soleil,75-150 USD
+54,Farmhouse Inn & Restaurant,75-150 USD
+55,The Kitchen,75-150 USD
+56,Madrona Manor,75-150 USD
+57,Harbor House,75-150 USD
+58,Shin Sushi,50-75 USD
+59,Rustic Canyon,50-75 USD
+60,Dialogue,75-150 USD
+61,Kato,50-75 USD
+62,CUT,75-150 USD
+63,Nozawa Bar,75-150 USD
+64,Shunji,75-150 USD
+65,Maude,75-150 USD
+66,Mori Sushi,75-150 USD
+67,Trois Mec,75-150 USD
+68,Osteria Mozza,50-75 USD
+69,Kali,50-75 USD
+70,Le Comptoir,75-150 USD
+71,Q Sushi,75-150 USD
+72,Shibumi,75-150 USD
+73,Hayato,75-150 USD
+74,Bistro Na's,25-50 USD
+75,Orsa & Winston,75-150 USD
+76,Taco María,50-75 USD
+77,Hana re,75-150 USD
+78,Addison,75-150 USD
+79,Parachute,50-75 USD
+80,Goosefoot,75-150 USD
+81,Elizabeth,75-150 USD
+82,EL Ideas,75-150 USD
+83,Band of Bohemia,50-75 USD
+84,Schwa,80-150 USD
+85,Temporis,75-150 USD
+86,Entente,60-130 USD
+87,Elske,75-150 USD
+88,Dusek's (Board & Beer),30-57 USD
+89,Roister,30-133 USD
+90,Boka,50-75 USD
+91,Blackbird,50-75 USD
+92,Sepia,50-75 USD
+93,North Pond,50-75 USD
+94,Everest,75-150 USD
+95,Topolobampo,75-150 USD
+96,Spiaggia,53-155 USD
+97,Monte,500-900 HRK
+98,Draga di Lovrana,270-550 HRK
+99,Noel,428-690 HRK
+100,Pelegrini,450-675 HRK
+101,360º,480-820 HRK
+102,Field,1160-3500 CZK
+103,La Degustation Bohême Bourgeoise,3450-3450 CZK
+104,Gastromé,600-1100 DKK
+105,Domestic,550-950 DKK
+106,Substans,800-1200 DKK
+107,Frederikshøj,1145-1145 DKK
+108,Ti Trin Ned,875-1200 DKK
+109,Slotskøkkenet,1000-1200 DKK
+110,Søllerød Kro,395-1310 DKK
+111,Jordnær,850-1300 DKK
+112,Relæ,475-895 DKK
+113,Kiin Kiin,495-975 DKK
+114,formel B,420-900 DKK
+115,Kokkeriet,675-1200 DKK
+116,Clou,1600-1600 DKK
+117,Marchal,435-1030 DKK
+118,Kong Hans Kælder,965-2065 DKK
+119,Stud!o at The Standard,700-1300 DKK
+120,108,525-1150 DKK
+121,Era Ora,480-1280 DKK
+122,Alouette,695-695 DKK
+123,Frederiksminde,550-1395 DKK
+124,Kadeau Bornholm,1300-1300 DKK
+125,Ask,65-119 EUR
+126,Grön,58-58 EUR
+127,Demo,65-105 EUR
+128,Olo,121-121 EUR
+129,Palace,62-169 EUR
+130,Ora,89-89 EUR
+131,Botrini's,65-120 EUR
+132,Varoulko Seaside,42-60 EUR
+133,Hytra,59-86 EUR
+134,Loaf On,200-500 HKD
+135,Lei Garden (Kwun Tong),100-750 HKD
+136,Tim Ho Wan (Sham Shui Po),30-50 HKD
+137,Lei Garden (Mong Kok),150-850 HKD
+138,Ming Court,458-1288 HKD
+139,Yat Tung Heen (Jordan),288-1000 HKD
+140,Fu Ho (Tsim Sha Tsui),250-1500 HKD
+141,Shang Palace,350-1388 HKD
+142,IM Teppanyaki & Wine,320-2000 HKD
+143,Ah Yat Harbour View (Tsim Sha Tsui),300-2200 HKD
+144,Rech,588-1200 HKD
+145,Spring Moon,400-2000 HKD
+146,Imperial Treasure Fine Chinese Cuisine,200-1000 HKD
+147,Sushi Tokami,800-1200 HKD
+148,Tosca,448-1708 HKD
+149,Épure,388-1888 HKD
+150,Yee Tung Heen,250-1000 HKD
+151,Yè Shanghai (Tsim Sha Tsui),150-600 HKD
+152,Ho Hung Kee,100-200 HKD
+153,Jardin de Jade (Wan Chai),200-500 HKD
+154,Zhejiang Heen,200-500 HKD
+155,Takumi by Daisuke Mori,880-2680 HKD
+156,Kam's Roast Goose,50-150 HKD
+157,Pang's Kitchen,93-500 HKD
+158,Xin Rong Ji,350-1000 HKD
+159,Qi (Wan Chai),120-750 HKD
+160,Man Wah,500-1600 HKD
+161,Summer Palace,350-1500 HKD
+162,Octavium,380-1580 HKD
+163,Arbor,488-1888 HKD
+164,VEA,1 480
+165,Mandarin Grill + Bar,588-2100 HKD
+166,Yat Lok,60-360 HKD
+167,Guo Fu Lou,400-2000 HKD
+168,Celebrity Cuisine,200-1000 HKD
+169,Sushi Wadatsumi,480-2800 HKD
+170,Arcane,350-1000 HKD
+171,Duddell's,450-1000 HKD
+172,Beefbar,320-1500 HKD
+173,New Punjab Club,300-800 HKD
+174,Kaiseki Den by Saotome,2480-3580 HKD
+175,Belon,458-1488 HKD
+176,Tate,1 680
+177,The Ocean,900-1288 HKD
+178,Costes Downtown,7900-24000 HUF
+179,Borkonyha Winekitchen,9050-15850 HUF
+180,Stand,7500-19500 HUF
+181,Babel,25000-25000 HUF
+182,Costes,21000-26600 HUF
+183,The Kitchen,430-1650 MOP
+184,Tim's Kitchen,200-1600 MOP
+185,Wing Lei,200-2000 MOP
+186,King,150-500 MOP
+187,Ying,200-1300 MOP
+188,Shinji by Kanesaka,738-2988 MOP
+189,The Golden Peacock,198-600 MOP
+190,Zi Yat Heen,300-3000 MOP
+191,8 1/2 Otto e Mezzo - Bombana,488-2180 MOP
+192,Pearl Dragon,350-1488 MOP
+193,Lai Heen,300-2088 MOP
+194,FAGN,750-1385 NOK
+195,Credo,1300-1300 NOK
+196,RE-NAA,1600-1600 NOK
+197,Sabi Omakase,1495-1495 NOK
+198,Galt,515-865 NOK
+199,Kontrast,595-1600 NOK
+200,Statholdergaarden,1020-1195 NOK
+201,Del Posto,59-194 USD
+202,L'Appart,150-185 USD
+203,Okuda,125-245 USD
+204,Wallsé,75-150 USD
+205,Jeju Noodle Bar,25-51 USD
+206,Sushi Nakazawa,75-150 USD
+207,Kosaka,75-155 USD
+208,Bâtard,65-95 USD
+209,Hirohisa,50-150 USD
+210,Blue Hill,95-108 USD
+211,ZZ's Clam Bar,75-150 USD
+212,Babbo,75-150 USD
+213,Carbone,75-150 USD
+214,Le Coucou,45-130 USD
+215,Aldea,75-150 USD
+216,Cote,50-180 USD
+217,Bouley at Home,50-75 USD
+218,Gotham Bar and Grill,75-150 USD
+219,Nix,50-75 USD
+220,Junoon,74-150 USD
+221,NoMad,50-150 USD
+222,The Musket Room,75-160 USD
+223,Uncle Boons,41-62 USD
+224,Noda,250-250 USD
+225,Gramercy Tavern,40-150 USD
+226,The Clocktower,50-75 USD
+227,Ai Fiori,54-150 USD
+228,Casa Mono,50-75 USD
+229,Jewel Bako,50-160 USD
+230,The River Café,54-175 USD
+231,Bar Uchū,100-255 USD
+232,Café China,30-64 USD
+233,Kanoyama,50-76 USD
+234,Contra,75-150 USD
+235,Atomix,205-205 USD
+236,Kyo Ya,50-75 USD
+237,Kajitsu,97-127 USD
+238,Agern,40-155 USD
+239,Caviar Russe,95-149 USD
+240,Tuome,25-50 USD
+241,Tempura Matsui,40-230 USD
+242,Sushi Yasuda,149-149 USD
+243,Sushi Amane,149-250 USD
+244,Café Boulud,75-150 USD
+245,Claro,25-50 USD
+246,Satsuki,75-150 USD
+247,Sushi Noz,75-150 USD
+248,Sushi Inoue,149-400 USD
+249,Meadowsweet,50-75 USD
+250,Casa Enríque,30-60 USD
+251,Peter Luger,75-150 USD
+252,Oxomoco,50-75 USD
+253,The Finch,50-100 USD
+254,Faro,25-115 USD
+255,Senses,320-550 PLN
+256,atelier Amaro,150-420 PLN
+257,Aniar,75-105 EUR
+258,Loam,55-99 EUR
+259,Wild Honey Inn,50-60 EUR
+260,Chestnut,60-85 EUR
+261,Mews,95-95 EUR
+262,Ichigo Ichie,120-135 EUR
+263,Chapter One,42-115 EUR
+264,Greenhouse,55-110 EUR
+265,L'Ecrivain,37-115 EUR
+266,Campagne,38-60 EUR
+267,Heron & Grey,58-96 EUR
+268,Lady Helen,75-115 EUR
+269,House,88-110 EUR
+270,Olympe,175-450 BRL
+271,Lasai,295-345 BRL
+272,Oteque,345-345 BRL
+273,Mee,120-390 BRL
+274,Cipriani,220-420 BRL
+275,Jun Sakamoto,165-365 BRL
+276,Maní,124-470 BRL
+277,Evvai,120-265 BRL
+278,Picchi,155-420 BRL
+279,Kosushi,80-190 BRL
+280,Ryo Gastronomia,150-260 BRL
+281,Tangará Jean-Georges,187-520 BRL
+282,Kinoshita,175-360 BRL
+283,Kan Suke,120-322 BRL
+284,Huto,180-295 BRL
+285,Stay,58000-200000 KRW
+286,Lee Jong Kuk 104,150000-500000 KRW
+287,Hansikgonggan,60000-120000 KRW
+288,Dining in Space,75000-150000 KRW
+289,Exquisine,50000-100000 KRW
+290,Dosa,50000-130000 KRW
+291,Joo Ok,55000-110000 USD
+292,Balwoo Gongyang,30000-95000 USD
+293,Muoki,60000-125000 KRW
+294,L'Amitié,55000-150000 USD
+295,Yu Yuan,60000-270000 KRW
+296,Bicena,70000-190000 KRW
+297,Mosu,240000-240000 KRW
+298,Poom,80850-231000 KRW
+299,Soigné,65000-145000 KRW
+300,Table for Four,50000-100000 KRW
+301,Zero Complex,70000-130000 KRW
+302,Jin Jin,18500-75000 KRW
+303,Gotgan,150000-300000 KRW
+304,Hill Street Tai Hwa Pork Noodle,5-10 SGD
+305,Putien (Kitchener Road),30-50 SGD
+306,Chef Kang's,80-120 SGD
+307,Garibaldi,39-228 SGD
+308,Summer Pavilion,58-200 SGD
+309,Shinji (Bras Basah Road),75-500 SGD
+310,The Song of India,36-149 SGD
+311,Lei Garden,30-90 SGD
+312,Jaan,98-268 SGD
+313,Labyrinth,78-178 SGD
+314,Cut,100-350 SGD
+315,Alma,39-197 SGD
+316,Béni,88-258 SGD
+317,Crystal Jade Golden Palace,50-150 SGD
+318,Imperial Treasure Fine Teochew Cuisine (Orchard),30-178 SGD
+319,Saint Pierre,68-258 SGD
+320,Sushi Ichi,100-430 SGD
+321,Sushi Kimura,120-400 SGD
+322,Iggy's,105-235 SGD
+323,Braci,55-200 SGD
+324,Jiang-Nan Chun,50-180 SGD
+325,Shinji (Tanglin Road),125-600 SGD
+326,Corner House,78-268 SGD
+327,Summer Palace,48-250 SGD
+328,Nouri,75-240 SGD
+329,Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle,3-15 SGD
+330,Burnt Ends,50-250 SGD
+331,Rhubarb,52-148 SGD
+332,Ma Cuisine,40-75 SGD
+333,Candlenut,20-128 SGD
+334,Bhoga,600-900 SEK
+335,Koka,545-945 SEK
+336,28+,655-895 SEK
+337,SK Mat & Människor,560-650 SEK
+338,Thörnströms Kök,675-905 SEK
+339,Upper House,1400-1400 SEK
+340,Agrikultur,945-945 SEK
+341,Sushi Sho,685-685 SEK
+342,Volt,750-950 SEK
+343,Ekstedt,890-1250 SEK
+344,Operakällaren,1050-1550 SEK
+345,Mathias Dahlgren-Matbaren,465-1275 SEK
+346,Aloë,1600-1600 SEK
+347,PM & Vänner,895-1495 SEK
+348,Bloom in the Park,495-695 SEK
+349,SAV,625-895 SEK
+350,Golden Formosa,500-800 TWD
+351,Danny's Steakhouse,1250-3400 TWD
+352,L'Atelier de Joël Robuchon,1580-6880 TWD
+353,Kitcho,3500-7000 TWD
+354,Tien Hsiang Lo,800-6600 TWD
+355,Ya Ge,1200-8800 TWD
+356,Da-Wan,2000-3000 TWD
+357,Sushi Nomura,2000-10000 TWD
+358,logy,3 750
+359,Ming Fu,1500-2000 TWD
+360,Ken An Ho,3 800
+361,Sushi Ryu,3000-8000 TWD
+362,MUME,1700-2200 TWD
+363,Impromptu by Paul Lee,2 200
+364,Longtail,1200-2900 TWD
+365,Mountain and Sea House,980-4680 TWD
+366,Da San Yuan,400-3000 TWD
+367,Tainan Tan Tsu Mien Seafood,1200-5100 TWD
+368,Suan Thip,300-1200 THB
+369,Upstairs at Mikkeller,3 300
+370,Chim by Siam Wisdom,1100-2950 THB
+371,R-Haan,2212-2612 THB
+372,Canvas,2400-2900 THB
+373,Bo.lan,800-3280 THB
+374,Sra Bua by Kiin Kiin,1500-2400 THB
+375,Elements,1700-4400 THB
+376,Paste,1400-3600 THB
+377,Ginza Sushi ichi,1800-7000 THB
+378,Sorn,2 700
+379,Savelberg,1600-5600 THB
+380,Saneh Jaan,450-2500 THB
+381,Gaa,2200-2800 THB
+382,Methavalai Sorndaeng,500-1000 THB
+383,Jay Fai,400-1000 THB
+384,Nahm,1300-2000 THB
+385,J'AIME by Jean-Michel Lorain,990-4800 THB
+386,Saawaan,1 950
+387,Le Du,2000-3500 THB
+388,Ruean Panya,500-1500 THB
+389,PRU,3000-6000 THB
+390,Blue Duck Tavern,48-108 USD
+391,Tail Up Goat,25-50 USD
+392,Komi,149-165 USD
+393,Sushi Taro,75-150 USD
+394,Plume,75-150 USD
+395,Bresca,25-75 USD
+396,The Dabney,25-60 USD
+397,Métier,75-150 USD
+398,Kinship,50-75 USD
+399,Fiola,50-150 USD
+400,Masseria,50-75 USD
+401,Rose's Luxury,44-75 USD
+402,Loch Bay,34-70 GBP
+403,Braidwoods,30-55 GBP
+404,Eipic,30-70 GBP
+405,OX,22-60 GBP
+406,The Peat Inn,25-78 GBP
+407,Kitchin,35-80 GBP
+408,Martin Wishart,35-120 GBP
+409,Number One,90-105 GBP
+410,21212,32-70 GBP
+411,The Cellar,40-70 GBP
+412,Forest Side,40-105 GBP
+413,HRiSHi,70-90 GBP
+414,Rogan & Co,29-45 GBP
+415,House of Tides,55-95 GBP
+416,Sosban & The Old Butchers,50-94 GBP
+417,Northcote,36-90 GBP
+418,Yorke Arms,40-105 GBP
+419,Fraiche,48-95 GBP
+420,White Swan,35-60 GBP
+421,Tyddyn Llan,42-70 GBP
+422,Ynyshir,180-220 GBP
+423,Black Swan,98-125 GBP
+424,Simon Radley at Chester Grosvenor,75-99 GBP
+425,Star Inn at Harome,25-61 GBP
+426,The Man Behind The Curtain,55-100 GBP
+427,Pipe and Glass,30-57 GBP
+428,Fischer's at Baslow Hall,34-88 GBP
+429,Winteringham Fields,63-89 GBP
+430,Thomas Carr @ The Olive Room,55-75 GBP
+431,Walnut Tree,30-61 GBP
+432,Paul Ainsworth at No.6,34-89 GBP
+433,Simpsons,45-70 GBP
+434,Purnell's,45-95 GBP
+435,Adam's,40-95 GBP
+436,Outlaw's Fish Kitchen,35-50 GBP
+437,Carters of Moseley,50-90 GBP
+438,Peel's,75-95 GBP
+439,John's House,30-79 GBP
+440,The Whitebrook,42-85 GBP
+441,James Sommerin,38-95 GBP
+442,Driftwood,70-100 GBP
+443,The Cross at Kenilworth,29-75 GBP
+444,Masons Arms,28-55 GBP
+445,Salt,28-75 GBP
+446,Le Champignon Sauvage,35-85 GBP
+447,Gidleigh Park,65-145 GBP
+448,Hambleton Hall,40-98 GBP
+449,wilks,34-88 GBP
+450,Bulrush,34-60 GBP
+451,Casamia,48-118 GBP
+452,Paco Tapas,20-50 GBP
+453,Pony & Trap,27-65 GBP
+454,The Dining Room,95-125 GBP
+455,Bybrook,75-95 GBP
+456,Restaurant Hywel Jones by Lucknam Park,87-115 GBP
+457,Olive Tree,33-85 GBP
+458,Lympstone Manor,48-155 GBP
+459,The Neptune,62-80 GBP
+460,Elephant,25-80 GBP
+461,Oxford Kitchen,29-65 GBP
+462,Nut Tree,37-75 GBP
+463,Morston Hall,95-95 GBP
+464,Red Lion Freehouse,24-60 GBP
+465,Blackbird,29-56 GBP
+466,Woodspeen,28-68 GBP
+467,The Coach,22-34 GBP
+468,Crown,24-42 GBP
+469,L'Ortolan,42-105 GBP
+470,Hinds Head,30-95 GBP
+471,Black Rat,34-60 GBP
+472,Matt Worswick at The Latymer,49-105 GBP
+473,Coworth Park,35-110 GBP
+474,Tudor Room,45-95 GBP
+475,The Glasshouse,40-58 GBP
+476,La Trompette,40-75 GBP
+477,Tim Allen's Flitch of Bacon,32-70 GBP
+478,River Café,68-95 GBP
+479,Kitchen W8,25-75 GBP
+480,Trishna,25-70 GBP
+481,Roganic,35-85 GBP
+482,Locanda Locatelli,50-100 GBP
+483,Texture,29-116 GBP
+484,Portland,30-69 GBP
+485,Harwood Arms,33-50 GBP
+486,Pied à Terre,43-145 GBP
+487,The Ninth,28-59 GBP
+488,Kai,38-289 GBP
+489,Pollen Street Social,37-85 GBP
+490,Hakkasan Mayfair,32-120 GBP
+491,The Square,37-110 GBP
+492,Alyn Williams at The Westbury,35-90 GBP
+493,Benares,29-98 GBP
+494,Hakkasan Hanway Place,35-135 GBP
+495,Social Eating House,28-68 GBP
+496,Galvin at Windows,37-119 GBP
+497,Murano,32-105 GBP
+498,Marcus,45-135 GBP
+499,Sabor,35-60 GBP
+500,Clock House,40-90 GBP
+501,Yauatcha Soho,29-72 GBP
+502,Céleste,39-100 GBP
+503,Gymkhana,28-90 GBP
+504,Amaya,40-79 GBP
+505,Pétrus,45-125 GBP
+506,Veeraswamy,37-75 GBP
+507,Barrafina,20-40 GBP
+508,Hide,38-115 GBP
+509,Ritz Restaurant,59-140 GBP
+510,Elystan Street,30-84 GBP
+511,Seven Park Place,28-95 GBP
+512,Ikoyi,35-100 GBP
+513,Aquavit,22-66 GBP
+514,Five Fields,65-95 GBP
+515,Dining Room at The Goring,52-64 GBP
+516,St John,36-50 GBP
+517,Quilon,31-85 GBP
+518,Club Gascon,35-110 GBP
+519,A. Wong,24-95 GBP
+520,The Clove Club,65-145 GBP
+521,Leroy,22-46 GBP
+522,Angler,36-75 GBP
+523,Brat,25-65 GBP
+524,Lyle's,35-59 GBP
+525,Galvin La Chapelle,38-77 GBP
+526,City Social,45-91 GBP
+527,La Dame de Pic,42-114 GBP
+528,Story,100-145 GBP
+529,Trinity,40-70 GBP
+530,Chez Bruce,40-57 GBP
+531,Sorrel,45-95 GBP
+532,Restaurant Tristan,30-90 GBP
+533,Gravetye Manor,48-95 GBP
+534,The Sportsman,42-70 GBP
+535,West House,29-65 GBP
+536,Fordwich Arms,35-95 GBP
+537,Samphire,29-70 GBP
+538,Bohemia,35-105 GBP
+539,SENNS.Restaurant,99-185 EUR
+540,Ikarus,58-190 EUR
+541,Mraz & Sohn,140-140 EUR
+542,Konstantin Filippou,37-185 EUR
+543,Silvio Nickol Gourmet Restaurant,116-195 EUR
+544,Steirereck im Stadtpark,68-165 EUR
+545,Baumé,75-150 USD
+546,Commis,75-150 USD
+547,Californios,75-150 USD
+548,Lazy Bear,75-150 USD
+549,Saison,75-150 USD
+550,Campton Place,75-150 USD
+551,Coi,75-150 USD
+552,Acquerello,75-150 USD
+553,Urasawa,75-150 USD
+554,Sushi Ginza Onodera,75-150 USD
+555,Somni,75-150 USD
+556,Providence,75-150 USD
+557,n/naka,75-150 USD
+558,Vespertine,75-150 USD
+559,Smyth,95-225 USD
+560,Oriole,150-215 USD
+561,Acadia,75-150 USD
+562,KOKS,1400-1400 DKK
+563,Henne Kirkeby Kro,695-1295 DKK
+564,a‚o‚c,1700-2000 DKK
+565,noma,2500-2500 DKK
+566,Kadeau Copenhagen,1950-1950 DKK
+567,Spondi,79-140 EUR
+568,Sun Tung Lok,298-1200 HKD
+569,Yan Toh Heen,350-2000 HKD
+570,Tin Lung Heen,450-2098 HKD
+571,Tenku RyuGin,2 380
+572,Forum,200-2000 HKD
+573,Sushi Saito,1 480
+574,Pierre,558-2100 HKD
+575,Ying Jee Club,300-1200 HKD
+576,Écriture,488-2400 HKD
+577,Ta Vie,2 080
+578,Amber,618-2500 HKD
+579,Kashiwaya,680-4000 HKD
+580,Onyx,18900-36900 HUF
+581,Feng Wei Ju,150-550 MOP
+582,Golden Flower,250-2000 MOP
+583,Mizumi (Macau),250-1800 MOP
+584,The Tasting Room,488-2638 MOP
+585,Alain Ducasse at Morpheus,1400-2100 MOP
+586,L'Atelier de Joël Robuchon,103-235 USD
+587,Jungsik,149-235 USD
+588,Atera,149-285 USD
+589,Jean-Georges,68-248 USD
+590,Marea,63-150 USD
+591,Gabriel Kreuther,68-235 USD
+592,Ichimura at Uchū,75-150 USD
+593,Sushi Ginza Onodera,100-445 USD
+594,Ko,149-225 USD
+595,The Modern,75-150 USD
+596,Aquavit,60-195 USD
+597,Daniel,75-150 USD
+598,Aska,149-265 USD
+599,Blanca,149-198 USD
+600,Patrick Guilbaud,52-203 EUR
+601,Oro,335-435 BRL
+602,Tuju,210-550 BRL
+603,D.O.M.,375-645 BRL
+604,Kojima,200000-380000 KRW
+605,Jungsik,66000-200000 KRW
+606,Kwonsooksoo,66000-185000 KRW
+607,Mingles,75000-150000 USD
+608,Alla Prima,60000-138000 KRW
+609,Waku Ghin,180-450 SGD
+610,Odette,128-328 SGD
+611,Shoukouwa,180-480 SGD
+612,Shisen Hanten,60-110 SGD
+613,Les Amis,128-420 SGD
+614,Fäviken Magasinet,3000-3000 SEK
+615,Gastrologik,1595-1595 SEK
+616,Oaxen Krog,2100-2100 SEK
+617,Vollmers,1600-1600 SEK
+618,Daniel Berlin,1150-1950 SEK
+619,RAW,1850-3500 TWD
+620,Shoun RyuGin,4200-6500 TWD
+621,Taïrroir,1650-2600 TWD
+622,Sushi Amamoto,3 000
+623,The Guest House,1200-3280 TWD
+624,Sühring,2000-4400 THB
+625,Mezzaluna,6 500
+626,Le Normandie,1800-7500 THB
+627,minibar,75-150 USD
+628,Pineapple and Pearls,75-150 USD
+629,Andrew Fairlie at Gleneagles,110-155 GBP
+630,L'Enclume,59-155 GBP
+631,Raby Hunt,150-180 GBP
+632,Moor Hall,70-135 GBP
+633,Restaurant Sat Bains,95-135 GBP
+634,Restaurant Nathan Outlaw,140-140 GBP
+635,Belmond Le Manoir aux Quat' Saisons,105-190 GBP
+636,Midsummer House,50-135 GBP
+637,Hand and Flowers,30-75 GBP
+638,Ledbury,80-150 GBP
+639,CORE by Clare Smyth,70-145 GBP
+640,Le Gavroche,70-180 GBP
+641,Kitchen Table at Bubbledogs,150-150 GBP
+642,Hélène Darroze at The Connaught,60-185 GBP
+643,Dinner by Heston Blumenthal,45-105 GBP
+644,Umu,50-200 GBP
+645,Sketch (The Lecture Room & Library),114-126 GBP
+646,Greenhouse,45-155 GBP
+647,Claude Bosi at Bibendum,65-185 GBP
+648,Amador,69-235 EUR
+649,Manresa,75-150 USD
+650,Benu,75-150 USD
+651,Quince,75-150 USD
+652,Atelier Crenn,75-150 USD
+653,The French Laundry,75-150 USD
+654,The Restaurant at Meadowood,75-150 USD
+655,SingleThread,75-150 USD
+656,Alinea,250-270 USD
+657,Geranium,2500-2500 DKK
+658,T'ang Court,360-1700 HKD
+659,Bo Innovation,750-2680 HKD
+660,Lung King Heen,600-2980 HKD
+661,Caprice,550-2600 HKD
+662,8½ Otto e Mezzo - Bombana,580-1380 HKD
+663,L'Atelier de Joël Robuchon,598-2080 HKD
+664,Sushi Shikon,3 500
+665,The Eight,410-3080 MOP
+666,Robuchon au Dôme,688-3400 MOP
+667,Jade Dragon,300-2000 MOP
+668,Maaemo,2800-2800 NOK
+669,Masa,75-150 USD
+670,Per Se,75-150 USD
+671,Le Bernardin,75-150 USD
+672,Eleven Madison Park,125-125 USD
+673,Chef's Table at Brooklyn Fare,75-395 USD
+674,La Yeon,103000-270000 KRW
+675,Gaon,220000-290000 KRW
+676,Frantzén,3200-3200 SEK
+677,Le Palais,1100-2800 TWD
+678,The Inn at Little Washington,149-238 USD
+679,Fat Duck,325-325 GBP
+680,Waterside Inn,64-175 GBP
+681,Alain Ducasse at The Dorchester,70-185 GBP
+682,Gordon Ramsay,70-185 GBP
