@@ -1,0 +1,696 @@
+,name,latitude,longitude,city,region,cuisine,price,url,stars,country
+0,Kilian Stuba,47.34858,10.17114,Kleinwalsertal,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/vorarlberg/kleinwalsertal/restaurant/kilian-stuba,1,Austria
+1,Pfefferschiff,47.83787,13.07917,Hallwang,Austria,Classic cuisine,$$$$$,https://guide.michelin.com/at/en/salzburg-region/hallwang/restaurant/pfefferschiff,1,Austria
+2,Esszimmer,47.80685,13.034089999999999,Salzburg,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/esszimmer,1,Austria
+3,Carpe Diem,47.80001,13.04006,Salzburg,Austria,Market cuisine,$$$$$,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/carpe-diem,1,Austria
+4,Edvard,48.216503,16.36852,Wien,Austria,Modern cuisine,$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/edvard,1,Austria
+5,Das Loft,48.212720000000004,16.37931,Wien,Austria,Modern cuisine,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/das-loft,1,Austria
+6,Pramerl & the Wolf,48.20945,16.37174,Wien,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/pramerl-the-wolf,1,Austria
+7,Walter Bauer,48.20923,16.376720000000002,Wien,Austria,Classic cuisine,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/walter-bauer,1,Austria
+8,SHIKI,48.204066999999995,16.37098,Wien,Austria,Japanese,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/shiki,1,Austria
+9,Tian,48.20513,16.37456,Wien,Austria,Vegetarian,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/tian,1,Austria
+10,aend,48.18957,16.34115,Wien,Austria,Modern cuisine,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/aend,1,Austria
+11,Le Ciel by Toni Mörwald,48.202090000000005,16.371560000000002,Wien,Austria,Classic cuisine,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/le-ciel-by-toni-morwald,1,Austria
+12,Chez TJ,37.39468,-122.08044,South San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/chez-tj,1,United States of America
+13,Protégé,37.427853000000006,-122.14362,South San Francisco,California,Contemporary,$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/protege,1,United States of America
+14,Madera,37.42014,-122.21151,San Francisco,California,Contemporary,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madera,1,United States of America
+15,The Village Pub,37.42897,-122.25178000000001,San Francisco,California,Contemporary,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-village-pub,1,United States of America
+16,Plumed Horse,37.256479999999996,-122.03537,South San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/plumed-horse,1,United States of America
+17,Wakuriya,37.52114,-122.3366,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/wakuriya,1,United States of America
+18,Sushi Yoshizumi,37.565075,-122.3211,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sushi-yoshizumi,1,United States of America
+19,Rasa,37.577521999999995,-122.34598500000001,San Francisco,California,Indian,$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/rasa,1,United States of America
+20,Maum,37.726690000000005,-122.41421499999998,South San Francisco,California,Korean,$$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/maum,1,United States of America
+21,Al's Place,37.748924,-122.42013,San Francisco,California,Californian,$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/al-s-place,1,United States of America
+22,Aster,37.755054,-122.423134,San Francisco,California,Californian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/aster,1,United States of America
+23,Omakase,37.77077,-122.40298,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/omakase,1,United States of America
+24,Commonwealth,37.761395,-122.41946000000002,San Francisco,California,Contemporary,$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/commonwealth,1,United States of America
+25,Luce,37.781940000000006,-122.40498000000001,San Francisco,California,Contemporary,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/luce,1,United States of America
+26,Birdsong,37.779495000000004,-122.41048,San Francisco,California,American,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/birdsong,1,United States of America
+27,In Situ,37.785633000000004,-122.40113000000001,San Francisco,California,International,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/in-situ,1,United States of America
+28,Mourad,37.78695,-122.39986999999999,San Francisco,California,Moroccan,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/mourad,1,United States of America
+29,Hashiri,37.783062,-122.40754,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/hashiri,1,United States of America
+30,Angler,37.793167,-122.39213000000001,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/angler,1,United States of America
+31,Rich Table,37.774914,-122.42271000000001,San Francisco,California,Contemporary,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/rich-table,1,United States of America
+32,Kin Khao,37.785267,-122.40951000000001,San Francisco,California,Thai,$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao,1,United States of America
+33,Michael Mina,37.793490000000006,-122.399574,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/michael-mina,1,United States of America
+34,Sons & Daughters,37.79037,-122.40916999999999,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sons-daughters,1,United States of America
+35,Mister Jiu's,37.79371,-122.406654,San Francisco,California,Chinese,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/mister-jius,1,United States of America
+36,Nico,37.795803,-122.40333000000001,San Francisco,California,Contemporary,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/nico,1,United States of America
+37,jū-ni,37.776720000000005,-122.43886,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/ju-ni,1,United States of America
+38,Keiko à Nob Hill,37.793106,-122.41445,San Francisco,California,Fusion,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/keiko-a-nob-hill,1,United States of America
+39,The Progress,37.78371,-122.43281999999999,San Francisco,California,Californian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-progress,1,United States of America
+40,State Bird Provisions,37.783737,-122.43283000000001,San Francisco,California,American,$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions,1,United States of America
+41,Octavia,37.787857,-122.42708999999999,San Francisco,California,Californian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/octavia,1,United States of America
+42,SPQR,37.78732,-122.43375,San Francisco,California,Italian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/spqr,1,United States of America
+43,Lord Stanley,37.79592,-122.42208000000001,San Francisco,California,Californian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/lord-stanley,1,United States of America
+44,Kinjo,37.79699,-122.422005,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kinjo,1,United States of America
+45,Sorrel,37.788334000000006,-122.44613999999999,San Francisco,California,Californian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel,1,United States of America
+46,Gary Danko,37.80599,-122.42066000000001,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/gary-danko,1,United States of America
+47,Bar Crenn,37.798435,-122.43581,San Francisco,California,French,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/bar-crenn,1,United States of America
+48,Spruce,37.78772,-122.45263999999999,San Francisco,California,Californian,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/spruce,1,United States of America
+49,Wako,37.783035,-122.461525,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/wako,1,United States of America
+50,Madcap,37.974712,-122.56168000000001,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madcap,1,United States of America
+51,Aubergine,36.55406,-121.924355,Monterey,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/monterey/restaurant/aubergine,1,United States of America
+52,Kenzo,38.299240000000005,-122.28928,San Francisco,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kenzo,1,United States of America
+53,La Toque,38.303509999999996,-122.28348999999999,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/la-toque,1,United States of America
+54,Bouchon,38.40258,-122.3619,San Francisco,California,French,$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/bouchon,1,United States of America
+55,Auberge du Soleil,38.49199,-122.40534,San Francisco,California,Californian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/auberge-du-soleil,1,United States of America
+56,Farmhouse Inn & Restaurant,38.490390000000005,-122.8835,San Francisco,California,Californian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/farmhouse-inn-restaurant,1,United States of America
+57,The Kitchen,38.58894,-121.41423999999999,Sacramento,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-sacramento/restaurant/the-kitchen559371,1,United States of America
+58,Madrona Manor,38.604279999999996,-122.88646999999999,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madrona-manor,1,United States of America
+59,Harbor House,39.135876,-123.719444,San Francisco,California,Californian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/harbor-house,1,United States of America
+60,Shin Sushi,34.15784,-118.49415,Los Angeles,California,Japanese,$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shin-sushi,1,United States of America
+61,Rustic Canyon,34.024952,-118.49118,Los Angeles,California,Californian,$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/rustic-canyon,1,United States of America
+62,Dialogue,34.01679,-118.49748000000001,Los Angeles,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/dialogue,1,United States of America
+63,Kato,34.041683,-118.46091499999999,Los Angeles,California,Asian,$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kato,1,United States of America
+64,CUT,34.067036,-118.40102399999999,Los Angeles,California,Steakhouse,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/cut559418,1,United States of America
+65,Nozawa Bar,34.0683,-118.39849,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/nozawa-bar,1,United States of America
+66,Shunji,34.028496000000004,-118.45195,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shunji,1,United States of America
+67,Maude,34.064346,-118.39903999999999,Los Angeles,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/maude,1,United States of America
+68,Mori Sushi,34.033398,-118.44228999999999,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/mori-sushi,1,United States of America
+69,Trois Mec,34.084255,-118.33851000000001,Los Angeles,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/trois-mec,1,United States of America
+70,Osteria Mozza,34.083420000000004,-118.338974,Los Angeles,California,Italian,$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/osteria-mozza,1,United States of America
+71,Kali,34.083443,-118.32455,Los Angeles,California,Californian,$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kali,1,United States of America
+72,Le Comptoir,34.06354,-118.30057,Los Angeles,California,Californian,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/le-comptoir,1,United States of America
+73,Q Sushi,34.046883,-118.255844,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/q-sushi,1,United States of America
+74,Shibumi,34.044154999999996,-118.256134,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shibumi559644,1,United States of America
+75,Hayato,34.03311,-118.24265,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/hayato,1,United States of America
+76,Bistro Na's,34.104411999999996,-118.07158999999999,Los Angeles,California,Chinese,$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/bistro-na-s,1,United States of America
+77,Orsa & Winston,33.92145,-118.275406,Los Angeles,California,Fusion,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/orsa-winston,1,United States of America
+78,Taco María,33.69475,-117.92496499999999,Costa Mesa,California,Mexican,$$$,https://guide.michelin.com/us/en/california/us-costa-mesa/restaurant/taco-maria,1,United States of America
+79,Hana re,33.67759,-117.88656599999999,Costa Mesa,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-costa-mesa/restaurant/hana-re,1,United States of America
+80,Addison,32.939903,-117.20013,San Diego,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-san-diego/restaurant/addison,1,United States of America
+81,Parachute,41.944829999999996,-87.70638000000001,Chicago,Chicago,Fusion,$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/parachute,1,United States of America
+82,Goosefoot,41.96856,-87.69596,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/goosefoot,1,United States of America
+83,Elizabeth,41.969555,-87.68873599999999,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/elizabeth,1,United States of America
+84,EL Ideas,41.863,-87.68686,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/el-ideas,1,United States of America
+85,Band of Bohemia,41.967308,-87.67477,Chicago,Chicago,Gastropub,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/band-of-bohemia,1,United States of America
+86,Schwa,41.908879999999996,-87.66792,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/schwa,1,United States of America
+87,Temporis,41.898907,-87.66725,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/temporis,1,United States of America
+88,Entente,41.93721,-87.6652,Chicago,Chicago,Contemporary,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/entente,1,United States of America
+89,Elske,41.884426,-87.66071,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/elske,1,United States of America
+90,Dusek's (Board & Beer),41.857853000000006,-87.65756999999999,Chicago,Chicago,Gastropub,$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/dusek-s-board-beer,1,United States of America
+91,Roister,41.886658000000004,-87.65187,Chicago,Chicago,Contemporary,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/roister,1,United States of America
+92,Boka,41.91363,-87.64806,Chicago,Chicago,Contemporary,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/boka,1,United States of America
+93,Blackbird,41.88423,-87.64356,Chicago,Chicago,Contemporary,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/blackbird,1,United States of America
+94,Sepia,41.88394,-87.64246999999999,Chicago,Chicago,American,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/sepia,1,United States of America
+95,North Pond,41.9296,-87.63762,Chicago,Chicago,Contemporary,$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/north-pond,1,United States of America
+96,Everest,41.87597,-87.63212,Chicago,Chicago,French,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/everest,1,United States of America
+97,Topolobampo,41.89047,-87.63085,Chicago,Chicago,Mexican,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/topolobampo,1,United States of America
+98,Spiaggia,41.90062,-87.62456999999999,Chicago,Chicago,Italian,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/spiaggia,1,United States of America
+99,Monte,45.08279,13.631167999999999,Rovinj,Croatia,Creative,$$$$$,https://guide.michelin.com/hr/en/istria/rovinj/restaurant/monte,1,Croatia
+100,Draga di Lovrana,45.275867,14.251401000000001,Lovran,Croatia,Modern cuisine,$$$$$,https://guide.michelin.com/hr/en/primorje-gorski-kotar/lovran/restaurant/draga-di-lovrana,1,Croatia
+101,Noel,45.811054,15.988204999999999,Zagreb,Croatia,Modern cuisine,$$$$$,https://guide.michelin.com/hr/en/zagreb-region/zagreb/restaurant/noel,1,Croatia
+102,Pelegrini,43.73603,15.888902999999999,Šibenik,Croatia,Modern cuisine,$$$$$,https://guide.michelin.com/hr/en/sibenik-knin/sibenik/restaurant/pelegrini,1,Croatia
+103,360º,42.641563,18.111523000000002,Dubrovnik,Croatia,Modern cuisine,$$$$$,https://guide.michelin.com/hr/en/dubrovnik-neretva/dubrovnik/restaurant/360%C2%BA,1,Croatia
+104,Field,50.0919,14.42193,Praha,Czech Republic,Modern cuisine,$$$$$,https://guide.michelin.com/cz/en/prague/praha/restaurant/field,1,Czech Republic
+105,La Degustation Bohême Bourgeoise,50.09115,14.42511,Praha,Czech Republic,Modern cuisine,$$$$$,https://guide.michelin.com/cz/en/prague/praha/restaurant/la-degustation-boheme-bourgeoise,1,Czech Republic
+106,Gastromé,56.157880000000006,10.20937,Aarhus,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/gastrome,1,Denmark
+107,Domestic,56.158930000000005,10.212132,Aarhus,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/domestic,1,Denmark
+108,Substans,56.15415,10.20372,Aarhus,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/substans,1,Denmark
+109,Frederikshøj,56.12497,10.208638,Aarhus,Denmark,Creative,$$$$,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/frederikshoj,1,Denmark
+110,Me‚Mu,55.70901,9.53302,Vejle,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/vejle/restaurant/me%E2%80%9Amu,1,Denmark
+111,Ti Trin Ned,55.566590000000005,9.752689,Fredericia,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/southern-denmark/fredericia/restaurant/ti-trin-ned,1,Denmark
+112,Slotskøkkenet,55.771236,11.390805,Hørve,Denmark,Creative,$$$$,https://guide.michelin.com/dk/en/zealand/horve/restaurant/slotskokkenet,1,Denmark
+113,Søllerød Kro,55.81325,12.49548,København,Denmark,Modern cuisine,$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/sollerod-kro,1,Denmark
+114,Jordnær,55.748226,12.541014,København,Denmark,Danish,$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/jordnaer,1,Denmark
+115,Relæ,55.693233,12.543222,København,Denmark,Modern cuisine,$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/relae,1,Denmark
+116,Kiin Kiin,55.691880000000005,12.55754,København,Denmark,Thai,$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kiin-kiin,1,Denmark
+117,formel B,55.67031,12.537980000000001,København,Denmark,Modern cuisine,$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/formel-b,1,Denmark
+118,Kokkeriet,55.68768000000001,12.58492,København,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kokkeriet,1,Denmark
+119,Clou,55.68342,12.58497,København,Denmark,Modern cuisine,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/clou,1,Denmark
+120,Marchal,55.68034,12.58508,København,Denmark,Modern cuisine,$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/marchal,1,Denmark
+121,Kong Hans Kælder,55.6787,12.584003,København,Denmark,Classic French,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kong-hans-kaelder,1,Denmark
+122,Stud!o at The Standard,55.67799,12.59191,København,Denmark,Creative,$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/stud-o-at-the-standard,1,Denmark
+123,108,55.67785,12.598083500000001,København,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/108,1,Denmark
+124,Era Ora,55.673004000000006,12.591292,København,Denmark,Italian,$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/era-ora,1,Denmark
+125,Alouette,55.66265,12.57634,København,Denmark,Modern cuisine,$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/alouette,1,Denmark
+126,Frederiksminde,55.12416999999999,12.04623,Præstø,Denmark,Creative,$$$,https://guide.michelin.com/dk/en/zealand/praesto/restaurant/frederiksminde,1,Denmark
+127,Kadeau Bornholm,55.004569999999994,14.969216000000001,Pedersker,Denmark,Creative,$$$$,https://guide.michelin.com/dk/en/capital-region/pedersker/restaurant/kadeau-bornholm,1,Denmark
+128,Ask,60.17236,24.95648,Helsingfors / Helsinki,Finland,Modern cuisine,$$$,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/ask,1,Finland
+129,Grön,60.16446,24.93308,Helsingfors / Helsinki,Finland,Finnish,$$$,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/gron,1,Finland
+130,Demo,60.164806000000006,24.941635,Helsingfors / Helsinki,Finland,Modern cuisine,$$$,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/demo,1,Finland
+131,Olo,60.16616,24.947704,Helsingfors / Helsinki,Finland,Modern cuisine,$$$,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/olo,1,Finland
+132,Palace,60.16556,24.952560000000002,Helsingfors / Helsinki,Finland,Modern cuisine,$$$,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/palace,1,Finland
+133,Ora,60.157578,24.942947,Helsingfors / Helsinki,Finland,Modern cuisine,$$$,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/ora,1,Finland
+134,Botrini's,38.023179999999996,23.793770000000002,Athína,Greece,Mediterranean,$$$$$,https://guide.michelin.com/gr/en/attica/athina/restaurant/botrini-s,1,Greece
+135,Varoulko Seaside,37.937378,23.658576999999998,Athína,Greece,Seafood,$$$$$,https://guide.michelin.com/gr/en/attica/athina/restaurant/varoulko-seaside,1,Greece
+136,Hytra,37.95818,23.71895,Athína,Greece,Modern cuisine,$$$$$,https://guide.michelin.com/gr/en/attica/athina/restaurant/hytra,1,Greece
+137,Loaf On,22.379858,114.27188000000001,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/loaf-on,1,Hong Kong
+138,Lei Garden (Kwun Tong),22.312672,114.22482,Hong Kong,Hong Kong,Cantonese,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lei-garden-kwun-tong,1,Hong Kong
+139,Tim Ho Wan (Sham Shui Po),22.32805,114.16665,Hong Kong,Hong Kong,Dim Sum,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tim-ho-wan-sham-shui-po,1,Hong Kong
+140,Lei Garden (Mong Kok),22.320219,114.17133000000001,Hong Kong,Hong Kong,Cantonese,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lei-garden-mong-kok,1,Hong Kong
+141,Ming Court,22.318314,114.16933,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ming-court,1,Hong Kong
+142,Yat Tung Heen (Jordan),22.308014,114.17147,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yat-tung-heen-jordan,1,Hong Kong
+143,Fu Ho (Tsim Sha Tsui),22.3022,114.17193999999999,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/fu-ho-tsim-sha-tsui,1,Hong Kong
+144,Shang Palace,22.297325,114.177155,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/shang-palace,1,Hong Kong
+145,IM Teppanyaki & Wine,22.280807,114.19211000000001,Hong Kong,Hong Kong,Teppanyaki,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/im-teppanyaki-wine,1,Hong Kong
+146,Ah Yat Harbour View (Tsim Sha Tsui),22.296984,114.17197,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ah-yat-harbour-view-tsim-sha-tsui,1,Hong Kong
+147,Rech,22.293434,114.174034,Hong Kong,Hong Kong,Seafood,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/rech,1,Hong Kong
+148,Spring Moon,22.294943,114.17182,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/spring-moon,1,Hong Kong
+149,Imperial Treasure Fine Chinese Cuisine,22.296177,114.170006,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/imperial-treasure-fine-chinese-cuisine,1,Hong Kong
+150,Sushi Tokami,22.296112,114.16916,Hong Kong,Hong Kong,Sushi,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-tokami,1,Hong Kong
+151,Tosca,22.30357,114.16006999999999,Hong Kong,Hong Kong,Italian,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tosca352519,1,Hong Kong
+152,Épure,22.29583,114.169304,Hong Kong,Hong Kong,French,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/epure,1,Hong Kong
+153,Yee Tung Heen,22.282295,114.18413500000001,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yee-tung-heen,1,Hong Kong
+154,Yè Shanghai (Tsim Sha Tsui),22.295143,114.16823600000001,Hong Kong,Hong Kong,Shanghainese,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ye-shanghai-tsim-sha-tsui,1,Hong Kong
+155,Ho Hung Kee,22.280058,114.18364,Hong Kong,Hong Kong,Noodles and congee,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ho-hung-kee,1,Hong Kong
+156,Jardin de Jade (Wan Chai),22.28025,114.17716000000001,Hong Kong,Hong Kong,Shanghainese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/jardin-de-jade-wan-chai,1,Hong Kong
+157,Zhejiang Heen,22.2787,114.17763000000001,Hong Kong,Hong Kong,Shanghainese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/zhejiang-heen,1,Hong Kong
+158,Takumi by Daisuke Mori,22.276512,114.17718,Hong Kong,Hong Kong,Innovative,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/takumi-by-daisuke-mori,1,Hong Kong
+159,Kam's Roast Goose,22.277693,114.175385,Hong Kong,Hong Kong,Cantonese Roast Meats,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kam-s-roast-goose,1,Hong Kong
+160,Pang's Kitchen,22.26921,114.18451999999999,Hong Kong,Hong Kong,Cantonese,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/pang-s-kitchen,1,Hong Kong
+161,Xin Rong Ji,22.278013,114.17273,Hong Kong,Hong Kong,Taizhou,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/xin-rong-ji,1,Hong Kong
+162,Qi (Wan Chai),22.276443,114.17126,Hong Kong,Hong Kong,Sichuan,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/qi-wan-chai,1,Hong Kong
+163,Man Wah,22.282213,114.15951000000001,Hong Kong,Hong Kong,Cantonese,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/man-wah,1,Hong Kong
+164,Summer Palace,22.277136,114.1643,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/summer-palace,1,Hong Kong
+165,Octavium,22.282587,114.1572,Hong Kong,Hong Kong,Italian,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/octavium,1,Hong Kong
+166,Arbor,22.283146,114.15541999999999,Hong Kong,Hong Kong,Innovative,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/arbor,1,Hong Kong
+167,VEA,22.284931,114.15313,Hong Kong,Hong Kong,Innovative,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/vea,1,Hong Kong
+168,Mandarin Grill + Bar,22.281048000000002,114.1574,Hong Kong,Hong Kong,European contemporary,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/mandarin-grill-bar,1,Hong Kong
+169,Yat Lok,22.28226,114.15565500000001,Hong Kong,Hong Kong,Cantonese Roast Meats,$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yat-lok,1,Hong Kong
+170,Guo Fu Lou,22.278313,114.16033999999999,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/guo-fu-lou567828,1,Hong Kong
+171,Celebrity Cuisine,22.284334,114.15312,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/celebrity-cuisine,1,Hong Kong
+172,Sushi Wadatsumi,22.281038,114.15646000000001,Hong Kong,Hong Kong,Sushi,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-wadatsumi,1,Hong Kong
+173,Arcane,22.280624,114.15682,Hong Kong,Hong Kong,European contemporary,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/arcane,1,Hong Kong
+174,Duddell's,22.280079999999998,114.15736399999999,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/duddell-s,1,Hong Kong
+175,Beefbar,22.27982,114.15751999999999,Hong Kong,Hong Kong,Steakhouse,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/beefbar,1,Hong Kong
+176,New Punjab Club,22.28005,114.15525,Hong Kong,Hong Kong,Indian,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/new-punjab-club,1,Hong Kong
+177,Kaiseki Den by Saotome,22.285713,114.147865,Hong Kong,Hong Kong,Japanese,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kaiseki-den-by-saotome,1,Hong Kong
+178,Belon,22.281662,114.152405,Hong Kong,Hong Kong,French,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/belon,1,Hong Kong
+179,Tate,22.280996,114.15276000000001,Hong Kong,Hong Kong,Innovative,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tate,1,Hong Kong
+180,The Ocean,22.235146,114.198524,Hong Kong,Hong Kong,French,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/the-ocean,1,Hong Kong
+181,Costes Downtown,47.501129999999996,19.048595000000002,Budapest,Hungary,Modern cuisine,$$$$,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/costes-downtown,1,Hungary
+182,Borkonyha Winekitchen,47.49953,19.052391,Budapest,Hungary,Modern cuisine,$$$$,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/borkonyha-winekitchen,1,Hungary
+183,Stand,47.500244,19.059624,Budapest,Hungary,Modern cuisine,$$$,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/stand,1,Hungary
+184,Babel,47.492603,19.05256,Budapest,Hungary,Modern cuisine,$$$$$,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/babel,1,Hungary
+185,Costes,47.48873,19.061779,Budapest,Hungary,Modern cuisine,$$$$$,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/costes,1,Hungary
+186,The Kitchen,22.191442000000002,113.54299999999999,Macau,Macau,Steakhouse,$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-kitchen417810,1,Macao
+187,Tim's Kitchen,22.189898,113.5439,Macau,Macau,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/tim-s-kitchen,1,Macao
+188,Wing Lei,22.188028,113.54578000000001,Macau,Macau,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/wing-lei,1,Macao
+189,King,22.190178,113.54028000000001,Macau,Macau,Cantonese,$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/king380226,1,Macao
+190,Ying,22.161234,113.55540500000001,Macau,Macau,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/ying,1,Macao
+191,Shinji by Kanesaka,22.149635,113.56397,Macau,Macau,Sushi,$$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/shinji-by-kanesaka,1,Macao
+192,The Golden Peacock,22.148178,113.56335,Macau,Macau,Indian,$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-golden-peacock,1,Macao
+193,Zi Yat Heen,22.145418,113.56152,Macau,Macau,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/zi-yat-heen,1,Macao
+194,8 1/2 Otto e Mezzo - Bombana,22.149179999999998,113.55393000000001,Macau,Macau,Italian,$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/8-1-2-otto-e-mezzo-bombana,1,Macao
+195,Pearl Dragon,22.140524,113.56256,Macau,Macau,Cantonese,$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/pearl-dragon,1,Macao
+196,Lai Heen,22.148754,113.551926,Macau,Macau,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/lai-heen,1,Macao
+197,FAGN,63.43391999999999,10.39628,Trondheim,Norway,Modern cuisine,$$$$,https://guide.michelin.com/no/en/trondelag/trondheim/restaurant/fagn,1,Norway
+198,Credo,63.43391,10.39631,Trondheim,Norway,Creative,$$$$,https://guide.michelin.com/no/en/trondelag/trondheim/restaurant/credo,1,Norway
+199,RE-NAA,58.972088,5.732876999999999,Stavanger,Norway,Creative,$$$$,https://guide.michelin.com/no/en/rogaland/stavanger/restaurant/re-naa,1,Norway
+200,Sabi Omakase,58.969936,5.7433133000000005,Stavanger,Norway,Sushi,$$$$,https://guide.michelin.com/no/en/rogaland/stavanger/restaurant/sabi-omakase,1,Norway
+201,Galt,59.91661,10.71369,Oslo,Norway,Modern cuisine,$$$,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/galt,1,Norway
+202,Kontrast,59.92355,10.75106,Oslo,Norway,Scandinavian,$$$,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/kontrast,1,Norway
+203,Statholdergaarden,59.909369999999996,10.74305,Oslo,Norway,Classic cuisine,$$$$,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/statholdergaarden,1,Norway
+204,Del Posto,40.74327,-74.0077,New York,New York City,Italian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/del-posto,1,United States of America
+205,Le Grill de Joël Robuchon,40.742897,-74.0077,New York,New York City,French,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-grill-de-joel-robuchon,1,United States of America
+206,L'Appart,40.711903,-74.01544,New York,New York City,French,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/l-appart,1,United States of America
+207,Okuda,40.743793,-74.00633,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/okuda,1,United States of America
+208,Wallsé,40.73538,-74.00814,New York,New York City,Austrian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/wallse,1,United States of America
+209,Jeju Noodle Bar,40.732952000000004,-74.00744,New York,New York City,Korean,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jeju-noodle-bar,1,United States of America
+210,Sushi Nakazawa,40.731716,-74.00451,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-nakazawa,1,United States of America
+211,Kosaka,40.738316,-74.00137,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kosaka,1,United States of America
+212,Bâtard,40.719615999999995,-74.00589000000001,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/batard,1,United States of America
+213,Hirohisa,40.72452,-74.003006,New York,New York City,Japanese,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hirohisa,1,United States of America
+214,Blue Hill,40.7321,-73.9996,New York,New York City,American,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blue-hill,1,United States of America
+215,ZZ's Clam Bar,40.727646,-74.00046,New York,New York City,Seafood,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/zz-s-clam-bar,1,United States of America
+216,Babbo,40.73233,-73.99916,New York,New York City,Italian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/babbo,1,United States of America
+217,Carbone,40.727965999999995,-74.00017,New York,New York City,Italian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/carbone,1,United States of America
+218,Le Coucou,40.719162,-74.00001,New York,New York City,French,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-coucou,1,United States of America
+219,Aldea,40.73885,-73.99365999999999,New York,New York City,Mediterranean,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aldea,1,United States of America
+220,Cote,40.73778,-73.99375,New York,New York City,Korean,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cote,1,United States of America
+221,Bouley at Home,40.74114,-73.99242,New York,New York City,Contemporary,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bouley-at-home,1,United States of America
+222,Gotham Bar and Grill,40.73417,-73.99379,New York,New York City,American,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gotham-bar-and-grill,1,United States of America
+223,Nix,40.733166,-73.993515,New York,New York City,Vegetarian,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nix,1,United States of America
+224,Junoon,40.74325,-73.99077,New York,New York City,Indian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/junoon,1,United States of America
+225,NoMad,40.74497,-73.98883000000001,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nomad,1,United States of America
+226,The Musket Room,40.723915000000005,-73.99375,New York,New York City,Contemporary,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-musket-room,1,United States of America
+227,Uncle Boons,40.721203,-73.99441,New York,New York City,Thai,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/uncle-boons,1,United States of America
+228,Noda,40.74497,-73.988075,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/noda,1,United States of America
+229,Gramercy Tavern,40.738490000000006,-73.98868,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gramercy-tavern,1,United States of America
+230,The Clocktower,40.7414,-73.987595,New York,New York City,Contemporary,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-clocktower,1,United States of America
+231,Ai Fiori,40.75013,-73.98357,New York,New York City,Italian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ai-fiori,1,United States of America
+232,Casa Mono,40.73595,-73.98706,New York,New York City,Spanish,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-mono,1,United States of America
+233,Jewel Bako,40.727129999999995,-73.98928000000001,New York,New York City,Japanese,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jewel-bako,1,United States of America
+234,The River Café,40.703613,-73.99477399999999,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-river-cafe,1,United States of America
+235,Bar Uchū,40.72191,-73.99003,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bar-uchu,1,United States of America
+236,Café China,40.749973,-73.98228,New York,New York City,Chinese,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-china,1,United States of America
+237,Kanoyama,40.730709999999995,-73.98655,New York,New York City,Japanese,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kanoyama,1,United States of America
+238,Contra,40.719916999999995,-73.98921999999999,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/contra,1,United States of America
+239,Atomix,40.744408,-73.98292,New York,New York City,Korean,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atomix,1,United States of America
+240,Kyo Ya,40.7266,-73.98526,New York,New York City,Japanese,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kyo-ya,1,United States of America
+241,Kajitsu,40.727759999999996,-73.98428,New York,New York City,Japanese,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kajitsu,1,United States of America
+242,Agern,40.752340000000004,-73.9775,New York,New York City,Scandinavian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/agern,1,United States of America
+243,Caviar Russe,40.760684999999995,-73.97355,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/caviar-russe,1,United States of America
+244,Tuome,40.724194,-73.9828,New York,New York City,Fusion,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tuome,1,United States of America
+245,Tempura Matsui,40.74839,-73.97474,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tempura-matsui,1,United States of America
+246,Sushi Yasuda,40.75108,-73.97364,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-yasuda,1,United States of America
+247,Sushi Amane,40.751329999999996,-73.971725,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-amane,1,United States of America
+248,Café Boulud,40.774390000000004,-73.96414,New York,New York City,French,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-boulud,1,United States of America
+249,Claro,40.677395000000004,-73.98615,New York,New York City,Mexican,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/claro,1,United States of America
+250,Satsuki,40.801243,-73.95187,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/satsuki,1,United States of America
+251,Sushi Noz,40.77384,-73.958275,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-noz,1,United States of America
+252,Sushi Inoue,40.810448,-73.943726,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-inoue,1,United States of America
+253,Meadowsweet,40.710353999999995,-73.96316999999999,New York,New York City,Mediterranean,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/meadowsweet,1,United States of America
+254,Casa Enríque,40.743491999999996,-73.95425,New York,New York City,Mexican,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique,1,United States of America
+255,Peter Luger,40.70986,-73.96263,New York,New York City,Steakhouse,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/peter-luger,1,United States of America
+256,Oxomoco,40.730057,-73.95538,New York,New York City,Mexican,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/oxomoco,1,United States of America
+257,The Finch,40.68704,-73.96297,New York,New York City,American,$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-finch,1,United States of America
+258,Faro,40.707584000000004,-73.923035,New York,New York City,American,$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/faro,1,United States of America
+259,Senses,52.244583,21.005886,Warszawa,Poland,Modern cuisine,$$$$$,https://guide.michelin.com/pl/en/masovia/warszawa/restaurant/senses,1,Poland
+260,atelier Amaro,52.217079999999996,21.037679999999998,Warszawa,Poland,Modern cuisine,$$$$,https://guide.michelin.com/pl/en/masovia/warszawa/restaurant/atelier-amaro,1,Poland
+261,Aniar,53.271119999999996,-9.057078,Gaillimh/Galway,Ireland,Creative,,https://guide.michelin.com/ie/en/galway/gaillimh-galway/restaurant/aniar,1,Ireland
+262,Loam,53.27384,-9.044447,Gaillimh/Galway,Ireland,Creative,,https://guide.michelin.com/ie/en/galway/gaillimh-galway/restaurant/loam,1,Ireland
+263,Wild Honey Inn,53.03151,-9.2911,Lios Dúin Bhearna/Lisdoonvarna,Ireland,Classic cuisine,,https://guide.michelin.com/ie/en/clare/lios-duin-bhearna-lisdoonvarna/restaurant/wild-honey-inn,1,Ireland
+264,Chestnut,51.562588,-9.460854,Ballydehob,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/cork/ballydehob/restaurant/chestnut,1,Ireland
+265,Mews,51.48285,-9.37234,Baltimore,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/cork/ie-baltimore/restaurant/mews,1,Ireland
+266,Ichigo Ichie,51.898167,-8.479933,Corcaigh/Cork,Ireland,Japanese,,https://guide.michelin.com/ie/en/cork/corcaigh-cork/restaurant/ichigo-ichie,1,Ireland
+267,Chapter One,53.354374,-6.263786,City Centre,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/chapter-one,1,Ireland
+268,Greenhouse,53.340042000000004,-6.258506,City Centre,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/greenhouse,1,Ireland
+269,L'Ecrivain,53.33626999999999,-6.24834,City Centre,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/l-ecrivain,1,Ireland
+270,Campagne,52.6559,-7.2464285,Cill Chainnigh/Kilkenny,Ireland,Modern British,,https://guide.michelin.com/ie/en/kilkenny/cill-chainnigh-kilkenny/restaurant/campagne,1,Ireland
+271,Heron & Grey,53.30143,-6.177574,Blackrock,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/dun-laoghaire-rathdown/blackrock/restaurant/heron-grey,1,Ireland
+272,Lady Helen,52.526095999999995,-7.188277,Baile Mhic Andáin/Thomastown,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/kilkenny/baile-mhic-andain-thomastown/restaurant/lady-helen,1,Ireland
+273,House,51.94777,-7.713539599999999,Aird Mhór/Ardmore,Ireland,Modern cuisine,,https://guide.michelin.com/ie/en/waterford/aird-mhor-ardmore/restaurant/house,1,Ireland
+274,Olympe,-22.96109,-43.206579999999995,Rio de Janeiro - 22470,Rio de Janeiro,French,$$$$$,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/olympe,1,Brazil
+275,Lasai,-22.95401,-43.195570000000004,Rio de Janeiro - 22271,Rio de Janeiro,modern,$$$$$,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/lasai,1,Brazil
+276,Oteque,-22.95747,-43.194424,Rio de Janeiro - 22271,Rio de Janeiro,modern,$$$$$,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/oteque,1,Brazil
+277,Mee,-22.96764,-43.17925,Rio de Janeiro - 22021,Rio de Janeiro,Asian influences,$$$$$,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/mee,1,Brazil
+278,Cipriani,-22.96755,-43.17901,Rio de Janeiro - 22021,Rio de Janeiro,Italian,$$$$$,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/cipriani,1,Brazil
+279,Jun Sakamoto,-23.56318,-46.67737,São Paulo - 05413,Sao Paulo,Japanese,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/jun-sakamoto,1,Brazil
+280,Maní,-23.56621,-46.67974,São Paulo - 05415,Sao Paulo,creative,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/mani,1,Brazil
+281,Evvai,-23.567078,-46.679146,São Paulo - 05415,Sao Paulo,modern,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/evvai,1,Brazil
+282,Picchi,-23.565063000000002,-46.666767,São Paulo - 01426,Sao Paulo,Italian,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/picchi,1,Brazil
+283,Kosushi,-23.58522,-46.6809,São Paulo - 04538,Sao Paulo,Japanese,$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kosushi,1,Brazil
+284,Ryo Gastronomia,-23.58132,-46.6767,São Paulo - 04531,Sao Paulo,Japanese,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/ryo-gastronomia,1,Brazil
+285,Tangará Jean-Georges,-23.634005,-46.72428,São Paulo - 05706,Sao Paulo,modern,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/tangara-jean-georges,1,Brazil
+286,Kinoshita,-23.59159,-46.671459999999996,São Paulo - 04509,Sao Paulo,Japanese,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kinoshita,1,Brazil
+287,Kan Suke,-23.5684,-46.649359999999994,São Paulo - 01401,Sao Paulo,Japanese,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kan-suke,1,Brazil
+288,Huto,-23.60882,-46.6598,São Paulo - 04080,Sao Paulo,Japanese,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/huto,1,Brazil
+289,Stay,37.513003999999995,127.10257,Seoul,South Korea,French contemporary,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/stay,1,South Korea
+290,Lee Jong Kuk 104,37.592903,126.99728400000001,Seoul,South Korea,Korean,$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/lee-jong-kuk-104,1,South Korea
+291,Hansikgonggan,37.577705,126.98852,Seoul,South Korea,Korean,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/hansikgonggan,1,South Korea
+292,Dining in Space,37.57761,126.98845,Seoul,South Korea,French contemporary,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/dining-in-space,1,South Korea
+293,Exquisine,37.521046000000005,127.04973600000001,Seoul,South Korea,Innovative,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/exquisine,1,South Korea
+294,Dosa,37.52445,127.04441000000001,Seoul,South Korea,Innovative,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/dosa511871,1,South Korea
+295,Joo Ok,37.52252,127.04396000000001,Seoul,South Korea,Korean contemporary,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/joo-ok,1,South Korea
+296,Balwoo Gongyang,37.573890000000006,126.98318,Seoul,South Korea,Temple cuisine,$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/balwoo-gongyang,1,South Korea
+297,Muoki,37.518963,127.04217,Seoul,South Korea,Innovative,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/muoki,1,South Korea
+298,L'Amitié,37.522675,127.032646,Seoul,South Korea,French,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/l-amitie,1,South Korea
+299,Yu Yuan,37.57045,126.97533999999999,Seoul,South Korea,Chinese,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/yu-yuan,1,South Korea
+300,Bicena,37.5384,127.00135,Seoul,South Korea,Korean,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/bicena,1,South Korea
+301,Mosu,37.536415000000005,126.99933999999999,Seoul,South Korea,Innovative,$$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mosu,1,South Korea
+302,Poom,37.54903,126.98341,Seoul,South Korea,Korean,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/poom,1,South Korea
+303,Soigné,37.49816,127.00200000000001,Seoul,South Korea,Innovative,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/soigne,1,South Korea
+304,Table for Four,37.497690000000006,126.99441999999999,Seoul,South Korea,European contemporary,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/table-for-four,1,South Korea
+305,Zero Complex,37.494170000000004,126.9948,Seoul,South Korea,Innovative,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/zero-complex,1,South Korea
+306,Jin Jin,37.55777,126.91323999999999,Seoul,South Korea,Chinese,$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/jin-jin,1,South Korea
+307,Gotgan,37.52212,126.92022,Seoul,South Korea,Korean,$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/gotgan,1,South Korea
+308,Hill Street Tai Hwa Pork Noodle,1.3052,103.8624,Singapore,Singapore,Street Food,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/hill-street-tai-hwa-pork-noodle,1,Singapore
+309,Putien (Kitchener Road),1.30969,103.8573,Singapore,Singapore,Fujian,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/putien-kitchener-road,1,Singapore
+310,Chef Kang's,1.304735,103.84955,Singapore,Singapore,Cantonese,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/chef-kang-s,1,Singapore
+311,Garibaldi,1.296564,103.855,Singapore,Singapore,Italian,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/garibaldi,1,Singapore
+312,Summer Pavilion,1.291284,103.8603,Singapore,Singapore,Cantonese,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/summer-pavilion,1,Singapore
+313,Shinji (Bras Basah Road),1.2959028000000001,103.8539,Singapore,Singapore,Sushi,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/shinji-bras-basah-road,1,Singapore
+314,The Song of India,1.310767,103.8353,Singapore,Singapore,Indian,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/the-song-of-india,1,Singapore
+315,Lei Garden,1.295228,103.8521,Singapore,Singapore,Cantonese,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/lei-garden501509,1,Singapore
+316,Whitegrass,1.295452,103.8516,Singapore,Singapore,Australian,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/whitegrass,1,Singapore
+317,Jaan,1.2931840000000001,103.8529,Singapore,Singapore,French contemporary,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/jaan,1,Singapore
+318,Labyrinth,1.2899688,103.8562,Singapore,Singapore,Innovative,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/labyrinth,1,Singapore
+319,Cut,1.2853268,103.8607,Singapore,Singapore,Steakhouse,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/cut,1,Singapore
+320,Alma,1.309123,103.834,Singapore,Singapore,European contemporary,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/alma,1,Singapore
+321,Béni,1.3023790000000002,103.8366,Singapore,Singapore,French contemporary,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/beni,1,Singapore
+322,Crystal Jade Golden Palace,1.303244,103.8353,Singapore,Singapore,Chinese,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/crystal-jade-golden-palace,1,Singapore
+323,Imperial Treasure Fine Teochew Cuisine (Orchard),1.3032448,103.8349,Singapore,Singapore,Chinese,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/imperial-treasure-fine-teochew-cuisine-orchard,1,Singapore
+324,Saint Pierre,1.2857809999999998,103.8538,Singapore,Singapore,French contemporary,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/saint-pierre,1,Singapore
+325,Sushi Ichi,1.305105,103.8324,Singapore,Singapore,Sushi,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/sushi-ichi,1,Singapore
+326,Sushi Kimura,1.3063718999999998,103.829475,Singapore,Singapore,Sushi,$$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/sushi-kimura,1,Singapore
+327,Iggy's,1.305986,103.8294,Singapore,Singapore,European contemporary,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/iggy-s,1,Singapore
+328,Braci,1.287212,103.84949,Singapore,Singapore,Italian contemporary,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/braci,1,Singapore
+329,Jiang-Nan Chun,1.304937,103.8288,Singapore,Singapore,Cantonese,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/jiang-nan-chun,1,Singapore
+330,Bacchanalia,1.2874758,103.8474,Singapore,Singapore,Innovative,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/bacchanalia,1,Singapore
+331,Shinji (Tanglin Road),1.305821,103.8257,Singapore,Singapore,Sushi,$$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/shinji-tanglin-road,1,Singapore
+332,Corner House,1.315121,103.8154,Singapore,Singapore,Innovative,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/corner-house,1,Singapore
+333,Summer Palace,1.3043848,103.825,Singapore,Singapore,Cantonese,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/summer-palace501658,1,Singapore
+334,Cheek by Jowl,1.281301,103.84849,Singapore,Singapore,Australian,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/cheek-by-jowl,1,Singapore
+335,Nouri,1.28086,103.84713,Singapore,Singapore,Innovative,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/nouri,1,Singapore
+336,Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle,1.2824799999999998,103.8439,Singapore,Singapore,Street Food,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/liao-fan-hong-kong-soya-sauce-chicken-rice-noodle,1,Singapore
+337,Burnt Ends,1.2805010000000001,103.8418,Singapore,Singapore,Barbecue,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/burnt-ends,1,Singapore
+338,Rhubarb,1.279368,103.84299999999999,Singapore,Singapore,French contemporary,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/rhubarb,1,Singapore
+339,Meta,1.279372,103.8415,Singapore,Singapore,Innovative,$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/meta,1,Singapore
+340,Ma Cuisine,1.27826,103.84200000000001,Singapore,Singapore,French,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/ma-cuisine,1,Singapore
+341,Candlenut,1.2797709,103.8402,Singapore,Singapore,Peranakan,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/candlenut,1,Singapore
+342,Bhoga,57.70618,11.9624,Göteborg,Sweden,Creative,$$$,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/bhoga,1,Sweden
+343,Koka,57.698406000000006,11.965365,Göteborg,Sweden,Modern cuisine,$$$,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/koka,1,Sweden
+344,28+,57.69809,11.97377,Göteborg,Sweden,Modern cuisine,$$$,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/28,1,Sweden
+345,SK Mat & Människor,57.69688000000001,11.98338,Göteborg,Sweden,Modern cuisine,$$$,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/sk-mat-manniskor,1,Sweden
+346,Thörnströms Kök,57.69436999999999,11.977609,Göteborg,Sweden,Classic cuisine,$$$,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/thornstroms-kok,1,Sweden
+347,Upper House,57.69745,11.990210000000001,Göteborg,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/upper-house,1,Sweden
+348,Agrikultur,59.34777,18.058629999999997,Stockholm,Sweden,Modern cuisine,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/agrikultur,1,Sweden
+349,Sushi Sho,59.341286,18.049892,Stockholm,Sweden,Japanese,$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/sushi-sho,1,Sweden
+350,Volt,59.33866999999999,18.079683,Stockholm,Sweden,Creative,$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/volt,1,Sweden
+351,Ekstedt,59.33674,18.075210000000002,Stockholm,Sweden,Meats and grills,$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/ekstedt,1,Sweden
+352,Operakällaren,59.329876,18.071363,Stockholm,Sweden,Classic cuisine,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/operakallaren,1,Sweden
+353,Mathias Dahlgren-Matbaren,59.32935,18.075429999999997,Stockholm,Sweden,Modern cuisine,$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/mathias-dahlgren-matbaren,1,Sweden
+354,Aloë,59.2842,17.985748,Stockholm,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/aloe,1,Sweden
+355,PM & Vänner,56.878919999999994,14.803870000000002,Växjö,Sweden,Creative,$$$,https://guide.michelin.com/se/en/kronoberg/vaxjo/restaurant/pm-vanner,1,Sweden
+356,Bloom in the Park,55.59064,12.99794,Malmö,Sweden,Creative,$$,https://guide.michelin.com/se/en/skane/malmo/restaurant/bloom-in-the-park,1,Sweden
+357,SAV,55.53376,13.00537,Malmö,Sweden,Creative,$$$,https://guide.michelin.com/se/en/skane/malmo/restaurant/sav,1,Sweden
+358,Golden Formosa,25.118216,121.53623,Taipei,Taipei,Taiwanese,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/golden-formosa,1,Taiwan
+359,Danny's Steakhouse,25.082657,121.552765,Taipei,Taipei,Steakhouse,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/danny-s-steakhouse,1,Taiwan
+360,L'Atelier de Joël Robuchon,25.039188,121.56771,Taipei,Taipei,French contemporary,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/l-atelier-de-joel-robuchon550759,1,Taiwan
+361,Kitcho,25.04429,121.55076000000001,Taipei,Taipei,Sushi,$$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/kitcho,1,Taiwan
+362,Tien Hsiang Lo,25.062696,121.529976,Taipei,Taipei,Hang Zhou,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tien-hsiang-lo,1,Taiwan
+363,Ya Ge,25.06625,121.52533000000001,Taipei,Taipei,Cantonese,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ya-ge,1,Taiwan
+364,Da-Wan,25.043018,121.55018999999999,Taipei,Taipei,Barbecue,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/da-wan,1,Taiwan
+365,Sushi Nomura,25.036179999999998,121.55465,Taipei,Taipei,Sushi,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-nomura,1,Taiwan
+366,logy,25.035610000000002,121.55323,Taipei,Taipei,Asian contemporary,$$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/logy,1,Taiwan
+367,Ming Fu,25.06171,121.52399,Taipei,Taipei,Taiwanese,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ming-fu,1,Taiwan
+368,Ken An Ho,25.034622,121.55281000000001,Taipei,Taipei,Japanese,$$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ken-an-ho,1,Taiwan
+369,Sushi Ryu,25.055832000000002,121.52723999999999,Taipei,Taipei,Sushi,$$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-ryu,1,Taiwan
+370,MUME,25.036266,121.54808999999999,Taipei,Taipei,European contemporary,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/mume,1,Taiwan
+371,Impromptu by Paul Lee,25.054289999999998,121.524254,Taipei,Taipei,Innovative,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/impromptu-by-paul-lee,1,Taiwan
+372,Longtail,25.023922,121.54841,Taipei,Taipei,Innovative,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/longtail,1,Taiwan
+373,Mountain and Sea House,25.038045999999998,121.53139499999999,Taipei,Taipei,Taiwanese,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/mountain-and-sea-house,1,Taiwan
+374,Da San Yuan,25.042248,121.512215,Taipei,Taipei,Cantonese,$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/da-san-yuan,1,Taiwan
+375,Tainan Tan Tsu Mien Seafood,25.03799,121.4984,Taipei,Taipei,Seafood,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tainan-tan-tsu-mien-seafood,1,Taiwan
+376,Suan Thip,13.926962,100.502144,Bangkok,Thailand,Thai,$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/suan-thip,1,Thailand
+377,Upstairs at Mikkeller,13.727946,100.58844,Bangkok,Thailand,Innovative,$$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/upstairs-at-mikkeller,1,Thailand
+378,Chim by Siam Wisdom,13.740706,100.56789,Bangkok,Thailand,Thai,$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/chim-by-siam-wisdom,1,Thailand
+379,R-Haan,13.731805,100.57972,Bangkok,Thailand,Thai,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/r-haan,1,Thailand
+380,Canvas,13.728886,100.580826,Bangkok,Thailand,Innovative,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/canvas566292,1,Thailand
+381,Bo.lan,13.726389000000001,100.57799,Bangkok,Thailand,Thai,$$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/bo-lan,1,Thailand
+382,Sra Bua by Kiin Kiin,13.754137,100.53451,Bangkok,Thailand,Thai Contemporary,$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sra-bua-by-kiin-kiin,1,Thailand
+383,Elements,13.742977999999999,100.54798000000001,Bangkok,Thailand,French contemporary,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/elements,1,Thailand
+384,Paste,13.744594000000001,100.540565,Bangkok,Thailand,Thai,$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/paste,1,Thailand
+385,Ginza Sushi ichi,13.744069,100.54092,Bangkok,Thailand,Sushi,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/ginza-sushi-ichi,1,Thailand
+386,Sorn,13.723242,100.56848000000001,Bangkok,Thailand,Southern Thai,$$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sorn,1,Thailand
+387,Savelberg,13.738216,100.54642,Bangkok,Thailand,French contemporary,$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/savelberg,1,Thailand
+388,Saneh Jaan,13.735739,100.54605,Bangkok,Thailand,Thai,$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/saneh-jaan,1,Thailand
+389,Gaa,13.737805999999999,100.54275,Bangkok,Thailand,Innovative,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/gaa,1,Thailand
+390,Methavalai Sorndaeng,13.756321,100.502045,Bangkok,Thailand,Thai,$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/methavalai-sorndaeng,1,Thailand
+391,Jay Fai,13.752614000000001,100.50466,Bangkok,Thailand,Street Food,$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/jay-fai,1,Thailand
+392,Nahm,13.724357000000001,100.53926,Bangkok,Thailand,Thai,$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/nahm,1,Thailand
+393,J'AIME by Jean-Michel Lorain,13.718885,100.54632600000001,Bangkok,Thailand,French contemporary,$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/j-aime-by-jean-michel-lorain,1,Thailand
+394,Saawaan,13.721809,100.53741,Bangkok,Thailand,Thai Contemporary,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/saawaan,1,Thailand
+395,Le Du,13.725005,100.52939,Bangkok,Thailand,Thai,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/le-du,1,Thailand
+396,Ruean Panya,13.558403,100.28264,Bangkok,Thailand,Thai,$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/ruean-panya,1,Thailand
+397,PRU,8.034298,98.2764,Phuket,Thailand,Innovative,$$$$$,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/pru,1,Thailand
+398,Blue Duck Tavern,38.905373,-77.05128,"Washington, D.C.",Washington DC,American,$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/blue-duck-tavern,1,United States of America
+399,Tail Up Goat,38.9235,-77.043274,"Washington, D.C.",Washington DC,Contemporary,$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/tail-up-goat,1,United States of America
+400,Komi,38.910107,-77.03836,"Washington, D.C.",Washington DC,Mediterranean,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/komi,1,United States of America
+401,Sushi Taro,38.909991999999995,-77.03834,"Washington, D.C.",Washington DC,Japanese,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/sushi-taro,1,United States of America
+402,Plume,38.906,-77.03671,"Washington, D.C.",Washington DC,European,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/plume,1,United States of America
+403,Siren by RW,38.907776,-77.035446,"Washington, D.C.",Washington DC,Seafood,$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/siren-by-rw,1,United States of America
+404,Bresca,38.91584,-77.0321,"Washington, D.C.",Washington DC,Contemporary,$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/bresca,1,United States of America
+405,The Dabney,38.906292,-77.024666,"Washington, D.C.",Washington DC,American,$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/the-dabney,1,United States of America
+406,Métier,38.903503,-77.0218,"Washington, D.C.",Washington DC,Contemporary,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/metier,1,United States of America
+407,Kinship,38.903282,-77.0218,"Washington, D.C.",Washington DC,Contemporary,$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/kinship,1,United States of America
+408,Fiola,38.89416,-77.02032,"Washington, D.C.",Washington DC,Italian,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/fiola,1,United States of America
+409,Masseria,38.909504,-76.99908,"Washington, D.C.",Washington DC,Italian,$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/masseria,1,United States of America
+410,Rose's Luxury,38.88064,-76.99515,"Washington, D.C.",Washington DC,Contemporary,$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/rose-s-luxury,1,United States of America
+411,Loch Bay,57.514869999999995,-6.57114,Waternish,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/highland/waternish/restaurant/loch-bay,1,United Kingdom
+412,Braidwoods,55.69474,-4.7425,Dalry,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/north-ayrshire/dalry/restaurant/braidwoods,1,United Kingdom
+413,Eipic,54.595898,-5.932242400000001,Belfast,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/belfast/belfast/restaurant/eipic,1,United Kingdom
+414,OX,54.59891,-5.9219800000000005,Belfast,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/belfast/belfast/restaurant/ox399109,1,United Kingdom
+415,The Peat Inn,56.27861,-2.8845797,Peat Inn,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/fife/peat-inn/restaurant/the-peat-inn,1,United Kingdom
+416,Kitchin,55.976967,-3.1728419999999997,Leith,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/city-of-edinburgh/leith/restaurant/kitchin,1,United Kingdom
+417,Martin Wishart,55.975519999999996,-3.1701900000000003,Leith,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/city-of-edinburgh/leith/restaurant/martin-wishart,1,United Kingdom
+418,Number One,55.952980000000004,-3.18966,Edinburgh,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/city-of-edinburgh/edinburgh/restaurant/number-one,1,United Kingdom
+419,21212,55.95674,-3.18018,Edinburgh,United Kingdom,Creative,,https://guide.michelin.com/gb/en/city-of-edinburgh/edinburgh/restaurant/21212,1,United Kingdom
+420,The Cellar,56.222126,-2.6963209999999997,Anstruther,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/fife/anstruther/restaurant/the-cellar,1,United Kingdom
+421,Forest Side,54.46396,-3.0157998,Grasmere,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/cumbria/grasmere/restaurant/forest-side,1,United Kingdom
+422,HRiSHi,54.35013000000001,-2.91172,Bowness-on-Windermere,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/cumbria/bowness-on-windermere/restaurant/hrishi,1,United Kingdom
+423,Rogan & Co,54.20074,-2.95464,Cartmel,United Kingdom,Creative British,,https://guide.michelin.com/gb/en/cumbria/cartmel/restaurant/rogan-co,1,United Kingdom
+424,House of Tides,54.967580000000005,-1.61127,Newcastle upon Tyne,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/tyne-and-wear/newcastle-upon-tyne/restaurant/house-of-tides,1,United Kingdom
+425,Sosban & The Old Butchers,53.225925,-4.163006,Menai Bridge/Porthaethwy,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/isle-of-anglesey/menai-bridge-porthaethwy/restaurant/sosban-the-old-butchers,1,United Kingdom
+426,Northcote,53.80933,-2.4476,Langho,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/lancashire/langho/restaurant/northcote,1,United Kingdom
+427,Yorke Arms,54.13435,-1.8183095,Pateley Bridge,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/north-yorkshire/pateley-bridge/restaurant/yorke-arms,1,United Kingdom
+428,Fraiche,53.38183000000001,-3.04307,Birkenhead,United Kingdom,Creative,,https://guide.michelin.com/gb/en/merseyside/birkenhead/restaurant/fraiche,1,United Kingdom
+429,White Swan,53.83916,-2.25097,Fence,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/lancashire/fence/restaurant/white-swan,1,United Kingdom
+430,Tyddyn Llan,52.92405,-3.44329,Llandrillo,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/denbighshire/llandrillo/restaurant/tyddyn-llan,1,United Kingdom
+431,Ynyshir,52.54476,-3.9449099999999997,Machynlleth,United Kingdom,Creative,,https://guide.michelin.com/gb/en/ceredigion/machynlleth/restaurant/ynyshir,1,United Kingdom
+432,Black Swan,54.21205,-1.1879198999999998,Oldstead,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/north-yorkshire/oldstead/restaurant/black-swan,1,United Kingdom
+433,Simon Radley at Chester Grosvenor,53.19064,-2.8891299999999998,Chester,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/cheshire-west-and-chester/chester/restaurant/simon-radley-at-chester-grosvenor,1,United Kingdom
+434,Star Inn at Harome,54.23101,-1.01023,Harome,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/north-yorkshire/harome/restaurant/star-inn-at-harome,1,United Kingdom
+435,The Man Behind The Curtain,53.798286,-1.5399370000000001,Leeds,United Kingdom,Creative,,https://guide.michelin.com/gb/en/kent/leeds/restaurant/the-man-behind-the-curtain,1,United Kingdom
+436,The Checkers,52.55568,-3.13769,Montgomery/Trefaldwyn,United Kingdom,French,,https://guide.michelin.com/gb/en/powys/montgomery-trefaldwyn/restaurant/the-checkers,1,United Kingdom
+437,Pipe and Glass,53.8955,-0.53301,South Dalton,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/east-riding-of-yorkshire/south-dalton/restaurant/pipe-and-glass,1,United Kingdom
+438,Fischer's at Baslow Hall,53.25055,-1.6269798,Baslow,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/derbyshire/baslow/restaurant/fischer-s-at-baslow-hall,1,United Kingdom
+439,Winteringham Fields,53.687780000000004,-0.59013,Winteringham,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/north-lincolnshire/winteringham/restaurant/winteringham-fields,1,United Kingdom
+440,Thomas Carr @ The Olive Room,51.209476,-4.118807,Ilfracombe,United Kingdom,Seafood,,https://guide.michelin.com/gb/en/devon/ilfracombe/restaurant/thomas-carr-the-olive-room,1,United Kingdom
+441,Walnut Tree,51.84534,-2.95438,Llanddewi Skirrid,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/monmouthshire/llanddewi-skirrid/restaurant/walnut-tree,1,United Kingdom
+442,Paul Ainsworth at No.6,50.541534000000006,-4.9398518,Padstow,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/cornwall/padstow/restaurant/paul-ainsworth-at-no-6,1,United Kingdom
+443,Simpsons,52.46925,-1.9238800999999999,Birmingham,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/simpsons,1,United Kingdom
+444,Purnell's,52.48268,-1.9018,Birmingham,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/purnell-s,1,United Kingdom
+445,Adam's,52.47964,-1.9002860000000001,Birmingham,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/adam-s,1,United Kingdom
+446,Outlaw's Fish Kitchen,50.59206,-4.832,Port Isaac,United Kingdom,Seafood,,https://guide.michelin.com/gb/en/cornwall/port-isaac/restaurant/outlaw-s-fish-kitchen,1,United Kingdom
+447,Carters of Moseley,52.44588,-1.8838400000000002,Birmingham,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/carters-of-moseley,1,United Kingdom
+448,Peel's,52.4259,-1.7053599999999998,Hampton in Arden,United Kingdom,Creative British,,https://guide.michelin.com/gb/en/west-midlands/hampton-in-arden/restaurant/peel-s,1,United Kingdom
+449,John's House,52.73295,-1.145851,Mountsorrel,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/leicestershire/mountsorrel/restaurant/john-s-house,1,United Kingdom
+450,The Whitebrook,51.759696999999996,-2.686909,Whitebrook,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/monmouthshire/whitebrook/restaurant/the-whitebrook,1,United Kingdom
+451,James Sommerin,51.434387,-3.167951,Penarth,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/the-vale-of-glamorgan/penarth/restaurant/james-sommerin,1,United Kingdom
+452,Driftwood,50.1889,-4.97088,Portscatho,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/cornwall/portscatho/restaurant/driftwood,1,United Kingdom
+453,The Cross at Kenilworth,52.350315,-1.5801147,Kenilworth,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/warwickshire/kenilworth/restaurant/the-cross-at-kenilworth,1,United Kingdom
+454,Masons Arms,50.995470000000005,-3.6716300000000004,Knowstone,United Kingdom,Classic French,,https://guide.michelin.com/gb/en/devon/knowstone/restaurant/masons-arms,1,United Kingdom
+455,Salt,52.18963,-1.7092043000000001,Stratford-upon-Avon,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/warwickshire/stratford-upon-avon/restaurant/salt522869,1,United Kingdom
+456,Le Champignon Sauvage,51.891459999999995,-2.07912,Cheltenham,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/gloucestershire/cheltenham/restaurant/le-champignon-sauvage,1,United Kingdom
+457,Gidleigh Park,50.67658,-3.87354,Chagford,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/devon/chagford/restaurant/gidleigh-park,1,United Kingdom
+458,Hambleton Hall,52.65736999999999,-0.6681199999999999,Upper Hambleton,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/rutland/upper-hambleton/restaurant/hambleton-hall,1,United Kingdom
+459,wilks,51.46737,-2.6069899,Bristol,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/wilks,1,United Kingdom
+460,Bulrush,51.46278,-2.5977580000000002,Bristol,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/bulrush,1,United Kingdom
+461,Casamia,51.447254,-2.5940727999999997,Bristol,United Kingdom,Creative,,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/casamia,1,United Kingdom
+462,Paco Tapas,51.44647,-2.5935799999999998,Bristol,United Kingdom,Spanish,,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/paco-tapas,1,United Kingdom
+463,Pony & Trap,51.34938,-2.5925993999999997,Chew Magna,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/bath-and-north-east-somerset/chew-magna/restaurant/pony-trap,1,United Kingdom
+464,The Dining Room,51.58376,-2.14954,Malmesbury,United Kingdom,Asian influences,,https://guide.michelin.com/gb/en/wiltshire/malmesbury/restaurant/the-dining-room193454,1,United Kingdom
+465,Bybrook,51.49382,-2.23212,Castle Combe,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/wiltshire/castle-combe/restaurant/bybrook,1,United Kingdom
+466,Restaurant Hywel Jones by Lucknam Park,51.455020000000005,-2.25941,Colerne,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/wiltshire/colerne/restaurant/restaurant-hywel-jones-by-lucknam-park,1,United Kingdom
+467,Olive Tree,51.38707,-2.3627,Bath,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/bath-and-north-east-somerset/bath/restaurant/olive-tree,1,United Kingdom
+468,Lympstone Manor,50.64069,-3.4186062999999995,Lympstone,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/devon/lympstone/restaurant/lympstone-manor,1,United Kingdom
+469,The Neptune,52.9511,0.50927,Hunstanton,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/norfolk/hunstanton/restaurant/the-neptune,1,United Kingdom
+470,Elephant,50.458529999999996,-3.5243800000000003,Torquay,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/torbay/torquay/restaurant/elephant,1,United Kingdom
+471,Oxford Kitchen,51.776733,-1.264794,Oxford,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/oxfordshire/oxford/restaurant/oxford-kitchen,1,United Kingdom
+472,Nut Tree,51.83618,-1.1499,Murcott,United Kingdom,Traditional British,,https://guide.michelin.com/gb/en/oxfordshire/murcott/restaurant/nut-tree,1,United Kingdom
+473,Morston Hall,52.954730000000005,0.98729,Morston,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/norfolk/morston/restaurant/morston-hall,1,United Kingdom
+474,Red Lion Freehouse,51.2736,-1.8007996,East Chisenbury,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/wiltshire/east-chisenbury/restaurant/red-lion-freehouse,1,United Kingdom
+475,Blackbird,51.420887,-1.3493548999999998,Newbury,United Kingdom,Classic cuisine,,https://guide.michelin.com/gb/en/west-berkshire/newbury/restaurant/blackbird552018,1,United Kingdom
+476,Woodspeen,51.415802,-1.353532,Newbury,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/west-berkshire/newbury/restaurant/woodspeen,1,United Kingdom
+477,The Coach,51.571712,-0.7772678000000001,Marlow,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/buckinghamshire/marlow/restaurant/the-coach,1,United Kingdom
+478,Crown,51.524807,-0.7915291,Burchett's Green,United Kingdom,Regional cuisine,,https://guide.michelin.com/gb/en/windsor-and-maidenhead/burchett-s-green/restaurant/crown442549,1,United Kingdom
+479,L'Ortolan,51.40833,-0.9542898000000001,Shinfield,United Kingdom,French,,https://guide.michelin.com/gb/en/wokingham/shinfield/restaurant/l-ortolan,1,United Kingdom
+480,Hinds Head,51.51265,-0.6964100000000001,Bray,United Kingdom,Traditional British,,https://guide.michelin.com/gb/en/buckinghamshire/bray/restaurant/hinds-head,1,United Kingdom
+481,Black Rat,51.057959999999994,-1.3069496999999999,Winchester,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/hampshire/winchester/restaurant/black-rat,1,United Kingdom
+482,Matt Worswick at The Latymer,51.35764,-0.7086128,Bagshot,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/surrey/bagshot/restaurant/matt-worswick-at-the-latymer,1,United Kingdom
+483,Coworth Park,51.40463,-0.616715,Ascot,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/windsor-and-maidenhead/ascot/restaurant/coworth-park,1,United Kingdom
+484,Tudor Room,51.417590000000004,-0.545847,Egham,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/surrey/egham/restaurant/tudor-room,1,United Kingdom
+485,The Glasshouse,51.4771,-0.28574,Kew,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/kew/restaurant/the-glasshouse,1,United Kingdom
+486,La Trompette,51.49222,-0.25619000000000003,Chiswick,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/chiswick/restaurant/la-trompette,1,United Kingdom
+487,Tim Allen's Flitch of Bacon,51.867470000000004,0.404134,Little Dunmow,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/essex/little-dunmow/restaurant/tim-allen-s-flitch-of-bacon,1,United Kingdom
+488,River Café,51.48395,-0.22423,Hammersmith,United Kingdom,Italian,,https://guide.michelin.com/gb/en/greater-london/hammersmith/restaurant/river-cafe,1,United Kingdom
+489,Kitchen W8,51.499179999999996,-0.19692,Kensington,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/kensington/restaurant/kitchen-w8,1,United Kingdom
+490,Trishna,51.51834,-0.153031,Marylebone,United Kingdom,Indian,,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/trishna,1,United Kingdom
+491,Roganic,51.518314000000004,-0.1520875,Marylebone,United Kingdom,Creative British,,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/roganic,1,United Kingdom
+492,Locanda Locatelli,51.51514,-0.15675,Marylebone,United Kingdom,Italian,,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/locanda-locatelli,1,United Kingdom
+493,Texture,51.51488,-0.15664,Marylebone,United Kingdom,Creative,,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/texture,1,United Kingdom
+494,Portland,51.519726,-0.142555,Regent's Park,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/regent-s-park/restaurant/portland,1,United Kingdom
+495,Harwood Arms,51.48291,-0.19651,Fulham,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/fulham/restaurant/harwood-arms,1,United Kingdom
+496,Pied à Terre,51.519,-0.13510999999999998,Bloomsbury,United Kingdom,Creative,,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/pied-a-terre,1,United Kingdom
+497,The Ninth,51.51875,-0.1350068,Bloomsbury,United Kingdom,Mediterranean cuisine,,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/the-ninth,1,United Kingdom
+498,Kai,51.50871,-0.15162,Mayfair,United Kingdom,Chinese,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/kai123638,1,United Kingdom
+499,Pollen Street Social,51.5133,-0.14234000000000002,Mayfair,United Kingdom,Creative,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/pollen-street-social,1,United Kingdom
+500,Hakkasan Mayfair,51.51037,-0.14475,Mayfair,United Kingdom,Chinese,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/hakkasan-mayfair,1,United Kingdom
+501,The Square,51.510690000000004,-0.14401,Mayfair,United Kingdom,Creative French,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/the-square69391,1,United Kingdom
+502,Alyn Williams at The Westbury,51.511179999999996,-0.14303,Mayfair,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/alyn-williams-at-the-westbury,1,United Kingdom
+503,Benares,51.50973,-0.14494,Mayfair,United Kingdom,Indian,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/benares,1,United Kingdom
+504,Hakkasan Hanway Place,51.5171,-0.13144,Bloomsbury,United Kingdom,Chinese,,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/hakkasan-hanway-place,1,United Kingdom
+505,Social Eating House,51.51383,-0.13673,Soho,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/soho/restaurant/social-eating-house,1,United Kingdom
+506,Galvin at Windows,51.505390000000006,-0.15039,Mayfair,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/galvin-at-windows,1,United Kingdom
+507,Murano,51.50707,-0.14722000000000002,Mayfair,United Kingdom,Italian,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/murano,1,United Kingdom
+508,Marcus,51.501709999999996,-0.15614,Belgravia,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/marcus,1,United Kingdom
+509,Sabor,51.511368,-0.1396773,Mayfair,United Kingdom,Spanish,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/sabor,1,United Kingdom
+510,Clock House,51.30044,-0.49287,Ripley,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/surrey/ripley/restaurant/clock-house,1,United Kingdom
+511,Yauatcha Soho,51.51367,-0.1352,Soho,United Kingdom,Chinese,,https://guide.michelin.com/gb/en/greater-london/soho/restaurant/yauatcha-soho,1,United Kingdom
+512,Céleste,51.502421999999996,-0.15226170000000003,Belgravia,United Kingdom,Creative French,,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/celeste,1,United Kingdom
+513,Gymkhana,51.50854,-0.14154,Mayfair,United Kingdom,Indian,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/gymkhana,1,United Kingdom
+514,Amaya,51.49912,-0.15730999999999998,Belgravia,United Kingdom,Indian,,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/amaya,1,United Kingdom
+515,Pétrus,51.49951,-0.15662,Belgravia,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/petrus284688,1,United Kingdom
+516,Veeraswamy,51.51008,-0.13809000000000002,Mayfair,United Kingdom,Indian,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/veeraswamy,1,United Kingdom
+517,Barrafina,51.51375,-0.1318,Soho,United Kingdom,Spanish,,https://guide.michelin.com/gb/en/greater-london/soho/restaurant/barrafina,1,United Kingdom
+518,Hide,51.506077000000005,-0.144289,Mayfair,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/hide,1,United Kingdom
+519,Ritz Restaurant,51.50728,-0.14140999999999998,Westminster,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/westminster/restaurant/ritz-restaurant,1,United Kingdom
+520,Elystan Street,51.491240000000005,-0.16724,Chelsea,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/elystan-street,1,United Kingdom
+521,Seven Park Place,51.50623,-0.13998,Saint James's,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/saint-james-s/restaurant/seven-park-place,1,United Kingdom
+522,Ikoyi,51.509212,-0.1334389,Saint James's,United Kingdom,Creative,,https://guide.michelin.com/gb/en/greater-london/saint-james-s/restaurant/ikoyi,1,United Kingdom
+523,Aquavit,51.508713,-0.1334072,Saint James's,United Kingdom,Scandinavian,,https://guide.michelin.com/gb/en/greater-london/saint-james-s/restaurant/aquavit501082,1,United Kingdom
+524,Five Fields,51.49168,-0.16124000000000002,Chelsea,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/five-fields,1,United Kingdom
+525,Dining Room at The Goring,51.49763,-0.14556,Victoria,United Kingdom,Traditional British,,https://guide.michelin.com/gb/en/greater-london/victoria/restaurant/dining-room-at-the-goring,1,United Kingdom
+526,St John,51.52064,-0.10132999999999999,Clerkenwell,United Kingdom,Traditional British,,https://guide.michelin.com/gb/en/greater-london/clerkenwell/restaurant/st-john,1,United Kingdom
+527,Quilon,51.49863,-0.13726,Victoria,United Kingdom,Indian,,https://guide.michelin.com/gb/en/greater-london/victoria/restaurant/quilon,1,United Kingdom
+528,Club Gascon,51.518570000000004,-0.10031,London,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/london/restaurant/club-gascon,1,United Kingdom
+529,A. Wong,51.493179999999995,-0.14128,Victoria,United Kingdom,Chinese,,https://guide.michelin.com/gb/en/greater-london/victoria/restaurant/a-wong,1,United Kingdom
+530,The Clove Club,51.52711,-0.07927000000000001,Shoreditch,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/the-clove-club,1,United Kingdom
+531,Leroy,51.524086,-0.0815337,Shoreditch,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/leroy,1,United Kingdom
+532,Angler,51.51894,-0.08625,Finsbury,United Kingdom,Seafood,,https://guide.michelin.com/gb/en/greater-london/finsbury/restaurant/angler392235,1,United Kingdom
+533,Brat,51.52427,-0.0767681,Shoreditch,United Kingdom,Traditional British,,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/brat,1,United Kingdom
+534,Lyle's,51.52378,-0.07704,Shoreditch,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/lyle-s,1,United Kingdom
+535,Galvin La Chapelle,51.52032,-0.0781,Spitalfields,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/spitalfields/restaurant/galvin-la-chapelle,1,United Kingdom
+536,City Social,51.515209999999996,-0.08431,City of London,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/city-of-london/restaurant/city-social,1,United Kingdom
+537,La Dame de Pic,51.510372,-0.07889810000000001,City of London,United Kingdom,Modern French,,https://guide.michelin.com/gb/en/greater-london/city-of-london/restaurant/la-dame-de-pic,1,United Kingdom
+538,Story,51.50268,-0.07774,Bermondsey,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/bermondsey/restaurant/story,1,United Kingdom
+539,Trinity,51.463359999999994,-0.14148,Clapham Common,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/clapham-common/restaurant/trinity,1,United Kingdom
+540,Chez Bruce,51.44607,-0.16552999999999998,Wandsworth,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/wandsworth/restaurant/chez-bruce,1,United Kingdom
+541,Sorrel,51.228825,-0.3346741,Dorking,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/surrey/dorking/restaurant/sorrel545459,1,United Kingdom
+542,Restaurant Tristan,51.062346999999995,-0.326034,Horsham,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/west-sussex/horsham/restaurant/restaurant-tristan,1,United Kingdom
+543,Gravetye Manor,51.08932,-0.05691,Gravetye,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/west-sussex/gravetye/restaurant/gravetye-manor,1,United Kingdom
+544,The Sportsman,51.343920000000004,0.95885,Seasalter,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/kent/seasalter/restaurant/the-sportsman,1,United Kingdom
+545,West House,51.11521,0.64215,Biddenden,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/kent/biddenden/restaurant/west-house,1,United Kingdom
+546,Fordwich Arms,51.295284,1.1261871,Fordwich,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/kent/fordwich/restaurant/fordwich-arms,1,United Kingdom
+547,Samphire,49.18488,-2.1057,Saint Helier/Saint-Hélier,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/saint-helier/saint-helier-saint-helier/restaurant/samphire392987,1,United Kingdom
+548,Bohemia,49.181225,-2.102417,Saint Helier/Saint-Hélier,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/saint-helier/saint-helier-saint-helier/restaurant/bohemia,1,United Kingdom
+549,SENNS.Restaurant,47.83636,13.063889999999999,Salzburg,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/senns-restaurant,2,Austria
+550,Ikarus,47.795359999999995,13.00695,Salzburg,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/ikarus,2,Austria
+551,Mraz & Sohn,48.23129,16.37637,Wien,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/mraz-sohn,2,Austria
+552,Konstantin Filippou,48.21056,16.37996,Wien,Austria,Modern cuisine,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/konstantin-filippou,2,Austria
+553,Silvio Nickol Gourmet Restaurant,48.20558,16.376929999999998,Wien,Austria,Modern cuisine,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/silvio-nickol-gourmet-restaurant,2,Austria
+554,Steirereck im Stadtpark,48.202290000000005,16.3805,Wien,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/steirereck-im-stadtpark,2,Austria
+555,Baumé,37.4285,-122.14272,South San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/baume,2,United States of America
+556,Commis,37.82476,-122.25505,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/commis,2,United States of America
+557,Californios,37.75555,-122.41714499999999,San Francisco,California,Mexican,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/californios,2,United States of America
+558,Lazy Bear,37.760203999999995,-122.41968999999999,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/lazy-bear,2,United States of America
+559,Saison,37.76327,-122.41543,San Francisco,California,Californian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/saison,2,United States of America
+560,Campton Place,37.789229999999996,-122.40665,San Francisco,California,Indian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/campton-place,2,United States of America
+561,Coi,37.798120000000004,-122.40331,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/coi,2,United States of America
+562,Acquerello,37.79167,-122.42131,San Francisco,California,Italian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/acquerello,2,United States of America
+563,Urasawa,34.067352,-118.40066999999999,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/urasawa,2,United States of America
+564,Sushi Ginza Onodera,34.08238,-118.37653999999999,Los Angeles,California,Japanese,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/sushi-ginza-onodera559850,2,United States of America
+565,Somni,34.070095,-118.37648999999999,Los Angeles,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/somni,2,United States of America
+566,Providence,34.083523,-118.33018999999999,Los Angeles,California,Seafood,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/providence,2,United States of America
+567,n/naka,34.025259999999996,-118.41206000000001,Los Angeles,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/n-naka,2,United States of America
+568,Vespertine,34.024204,-118.38166000000001,Los Angeles,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/vespertine,2,United States of America
+569,Smyth,41.885,-87.660736,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/smyth,2,United States of America
+570,Oriole,41.886196000000005,-87.64513000000001,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/oriole,2,United States of America
+571,Acadia,41.85904,-87.62562,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/acadia,2,United States of America
+572,KOKS,62.136669999999995,-7.022025,Leynar,Denmark,Creative,$$$$,https://guide.michelin.com/dk/en/faroe-islands/leynar/restaurant/koks558780,2,Denmark
+573,Henne Kirkeby Kro,55.72682,8.242021000000001,Henne,Denmark,Classic cuisine,$$$,https://guide.michelin.com/dk/en/southern-denmark/henne/restaurant/henne-kirkeby-kro,2,Denmark
+574,a‚o‚c,55.68305,12.589210000000001,København,Denmark,Modern cuisine,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/a%E2%80%9Ao%E2%80%9Ac,2,Denmark
+575,noma,55.683319999999995,12.61006,København,Denmark,Creative,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/noma,2,Denmark
+576,Kadeau Copenhagen,55.67219,12.58848,København,Denmark,Modern cuisine,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kadeau-copenhagen,2,Denmark
+577,Spondi,37.96525,23.742971,Athína,Greece,French,$$$$$,https://guide.michelin.com/gr/en/attica/athina/restaurant/spondi,2,Greece
+578,Sun Tung Lok,22.30099,114.17221,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sun-tung-lok,2,Hong Kong
+579,Yan Toh Heen,22.293337,114.17395,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yan-toh-heen,2,Hong Kong
+580,Tin Lung Heen,22.30357,114.16006999999999,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tin-lung-heen,2,Hong Kong
+581,Tenku RyuGin,22.30331,114.16021,Hong Kong,Hong Kong,Japanese,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tenku-ryugin,2,Hong Kong
+582,Forum,22.281616,114.1824,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/forum,2,Hong Kong
+583,Sushi Saito,22.286467000000002,114.15677,Hong Kong,Hong Kong,Sushi,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-saito,2,Hong Kong
+584,Pierre,22.282127,114.15948,Hong Kong,Hong Kong,French contemporary,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/pierre,2,Hong Kong
+585,Ying Jee Club,22.284338,114.156654,Hong Kong,Hong Kong,Cantonese,$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ying-jee-club,2,Hong Kong
+586,Écriture,22.28315,114.1554,Hong Kong,Hong Kong,French contemporary,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ecriture,2,Hong Kong
+587,Ta Vie,22.282766,114.15529,Hong Kong,Hong Kong,Innovative,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ta-vie,2,Hong Kong
+588,Amber,22.280596,114.15763999999999,Hong Kong,Hong Kong,French contemporary,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/amber569032,2,Hong Kong
+589,Kashiwaya,22.280642999999998,114.15673999999999,Hong Kong,Hong Kong,Japanese,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kashiwaya,2,Hong Kong
+590,Onyx,47.49712,19.05067,Budapest,Hungary,Modern cuisine,$$$$$,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/onyx,2,Hungary
+591,Feng Wei Ju,22.18996,113.54794,Macau,Macau,Hunanese and Sichuan,$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/feng-wei-ju,2,Macao
+592,Golden Flower,22.18753,113.54806,Macau,Macau,Chinese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/golden-flower,2,Macao
+593,Mizumi (Macau),22.188755,113.54488,Macau,Macau,Japanese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/mizumi-macau,2,Macao
+594,The Tasting Room,22.14958,113.56505,Macau,Macau,French contemporary,$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-tasting-room,2,Macao
+595,Alain Ducasse at Morpheus,22.14293,113.563774,Macau,Macau,French contemporary,$$$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/alain-ducasse-at-morpheus,2,Macao
+596,L'Atelier de Joël Robuchon,40.742905,-74.00769,New York,New York City,French,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/l-atelier-de-joel-robuchon562505,2,United States of America
+597,Jungsik,40.718685,-74.00910999999999,New York,New York City,Korean,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jungsik,2,United States of America
+598,Atera,40.716797,-74.00565,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atera,2,United States of America
+599,Jean-Georges,40.76907,-73.98155,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jean-georges,2,United States of America
+600,Marea,40.76749,-73.98114,New York,New York City,Seafood,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/marea,2,United States of America
+601,Gabriel Kreuther,40.75397,-73.982025,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gabriel-kreuther,2,United States of America
+602,Ichimura at Uchū,40.721832,-73.99011999999999,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ichimura-at-uchu,2,United States of America
+603,Sushi Ginza Onodera,40.752396000000005,-73.981575,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-ginza-onodera,2,United States of America
+604,Ko,40.72909,-73.98448,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ko,2,United States of America
+605,The Modern,40.76106,-73.97628,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-modern,2,United States of America
+606,Aquavit,40.76078,-73.97214,New York,New York City,Scandinavian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aquavit,2,United States of America
+607,Daniel,40.7666,-73.96745,New York,New York City,French,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/daniel,2,United States of America
+608,Aska,40.71222,-73.96642,New York,New York City,Scandinavian,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aska,2,United States of America
+609,Blanca,40.70492,-73.93354000000001,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blanca,2,United States of America
+610,Patrick Guilbaud,53.338930000000005,-6.25283,City Centre,Ireland,Modern French,,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/patrick-guilbaud,2,Ireland
+611,Oro,-22.98601,-43.224709999999995,Rio de Janeiro - 22441,Rio de Janeiro,creative,$$$$$,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/oro,2,Brazil
+612,Tuju,-23.55653,-46.69083,São Paulo - 05416,Sao Paulo,creative,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/tuju,2,Brazil
+613,D.O.M.,-23.56618,-46.66742,São Paulo - 01411,Sao Paulo,creative,$$$$$,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/d-o-m,2,Brazil
+614,Kojima,37.52559,127.04193000000001,Seoul,South Korea,Sushi,$$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/kojima,2,South Korea
+615,Jungsik,37.525585,127.04106999999999,Seoul,South Korea,Korean contemporary,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/jungsik511965,2,South Korea
+616,Kwonsooksoo,37.526752,127.03571000000001,Seoul,South Korea,Korean,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/kwonsooksoo,2,South Korea
+617,Mingles,37.52219,127.0392,Seoul,South Korea,Korean contemporary,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mingles,2,South Korea
+618,Alla Prima,37.518440000000005,127.03008,Seoul,South Korea,Innovative,$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/alla-prima,2,South Korea
+619,Waku Ghin,1.283175,103.8598,Singapore,Singapore,Japanese contemporary,$$$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/waku-ghin,2,Singapore
+620,Odette,1.2896458999999998,103.8516,Singapore,Singapore,French contemporary,$$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/odette,2,Singapore
+621,Shoukouwa,1.2863698000000001,103.854,Singapore,Singapore,Sushi,$$$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/shoukouwa,2,Singapore
+622,Shisen Hanten,1.302395,103.8365,Singapore,Singapore,Chinese,$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/shisen-hanten,2,Singapore
+623,Les Amis,1.3066648,103.8314,Singapore,Singapore,French,$$$,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/les-amis,2,Singapore
+624,Fäviken Magasinet,63.43626,13.293370000000001,Järpen,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/jamtland/jarpen/restaurant/faviken-magasinet,2,Sweden
+625,Gastrologik,59.33365,18.0807,Stockholm,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/gastrologik,2,Sweden
+626,Oaxen Krog,59.322342000000006,18.101831,Stockholm,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/oaxen-krog,2,Sweden
+627,Vollmers,55.604427,12.995847999999999,Malmö,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/skane/malmo/restaurant/vollmers,2,Sweden
+628,Daniel Berlin,55.61246,13.99265,Skåne-Tranås,Sweden,Creative,$$$$,https://guide.michelin.com/se/en/skane/skane-tranas/restaurant/daniel-berlin,2,Sweden
+629,RAW,25.082666,121.559525,Taipei,Taipei,Innovative,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/raw,2,Taiwan
+630,Shoun RyuGin,25.08258,121.5595,Taipei,Taipei,Japanese contemporary,$$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/shoun-ryugin,2,Taiwan
+631,Taïrroir,25.082718,121.559296,Taipei,Taipei,Innovative,$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tairroir,2,Taiwan
+632,Sushi Amamoto,25.037945,121.55487,Taipei,Taipei,Sushi,$$$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-amamoto,2,Taiwan
+633,The Guest House,25.04486,121.52198,Taipei,Taipei,Sichuan-Huai Yang,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/the-guest-house,2,Taiwan
+634,Gaggan,13.737679,100.54214499999999,Bangkok,Thailand,Innovative,$$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/gaggan,2,Thailand
+635,Sühring,13.710947,100.545654,Bangkok,Thailand,European contemporary,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/suhring,2,Thailand
+636,Mezzaluna,13.722148,100.51691,Bangkok,Thailand,Innovative,$$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/mezzaluna,2,Thailand
+637,Le Normandie,13.723197,100.513855,Bangkok,Thailand,French contemporary,$$$$,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/le-normandie,2,Thailand
+638,minibar,38.896294,-77.02386,"Washington, D.C.",Washington DC,Contemporary,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/minibar,2,United States of America
+639,Pineapple and Pearls,38.880707,-76.99514,"Washington, D.C.",Washington DC,Contemporary,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/pineapple-and-pearls,2,United States of America
+640,Andrew Fairlie at Gleneagles,56.283390000000004,-3.75149,Auchterarder,United Kingdom,Creative French,,https://guide.michelin.com/gb/en/perth-and-kinross/auchterarder/restaurant/andrew-fairlie-at-gleneagles,2,United Kingdom
+641,L'Enclume,54.201885,-2.953807,Cartmel,United Kingdom,Creative,,https://guide.michelin.com/gb/en/cumbria/cartmel/restaurant/l-enclume,2,United Kingdom
+642,Raby Hunt,54.566469999999995,-1.6892580000000001,Summerhouse,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/darlington/summerhouse/restaurant/raby-hunt,2,United Kingdom
+643,Moor Hall,53.541619999999995,-2.8895494999999998,Aughton,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/lancashire/aughton/restaurant/moor-hall,2,United Kingdom
+644,Restaurant Sat Bains,52.924380000000006,-1.1733198,Nottingham,United Kingdom,Creative,,https://guide.michelin.com/gb/en/nottingham/nottingham/restaurant/restaurant-sat-bains,2,United Kingdom
+645,Restaurant Nathan Outlaw,50.594086,-4.82854,Port Isaac,United Kingdom,Seafood,,https://guide.michelin.com/gb/en/cornwall/port-isaac/restaurant/restaurant-nathan-outlaw,2,United Kingdom
+646,Belmond Le Manoir aux Quat' Saisons,51.71674,-1.0918700000000001,Great Milton,United Kingdom,French,,https://guide.michelin.com/gb/en/oxfordshire/great-milton/restaurant/belmond-le-manoir-aux-quat-saisons,2,United Kingdom
+647,Midsummer House,52.21243,0.12779000000000001,Cambridge,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/cambridgeshire/cambridge/restaurant/midsummer-house,2,United Kingdom
+648,Hand and Flowers,51.57031,-0.78113,Marlow,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/buckinghamshire/marlow/restaurant/hand-and-flowers,2,United Kingdom
+649,Ledbury,51.516740000000006,-0.20007,North Kensington,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/north-kensington/restaurant/ledbury,2,United Kingdom
+650,CORE by Clare Smyth,51.512609999999995,-0.2030516,North Kensington,United Kingdom,Modern British,,https://guide.michelin.com/gb/en/greater-london/north-kensington/restaurant/core-by-clare-smyth,2,United Kingdom
+651,Le Gavroche,51.51127,-0.15517,Mayfair,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/le-gavroche,2,United Kingdom
+652,Kitchen Table at Bubbledogs,51.52041,-0.13647,Bloomsbury,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/kitchen-table-at-bubbledogs,2,United Kingdom
+653,Hélène Darroze at The Connaught,51.5101,-0.1495701,Mayfair,United Kingdom,Modern cuisine,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/helene-darroze-at-the-connaught,2,United Kingdom
+654,Dinner by Heston Blumenthal,51.50208,-0.16011,Hyde Park,United Kingdom,Traditional British,,https://guide.michelin.com/gb/en/greater-london/hyde-park/restaurant/dinner-by-heston-blumenthal,2,United Kingdom
+655,Umu,51.5113,-0.14455,Mayfair,United Kingdom,Japanese,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/umu,2,United Kingdom
+656,Sketch (The Lecture Room & Library),51.51287,-0.14135999999999999,Mayfair,United Kingdom,Modern French,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/sketch-the-lecture-room-library,2,United Kingdom
+657,Greenhouse,51.507690000000004,-0.14926,Mayfair,United Kingdom,Creative,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/greenhouse69393,2,United Kingdom
+658,Claude Bosi at Bibendum,51.49341,-0.16908929999999997,Chelsea,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/claude-bosi-at-bibendum,2,United Kingdom
+659,Amador,48.254059999999996,16.35915,Wien,Austria,Creative,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/amador,3,Austria
+660,Manresa,37.22761,-121.98071000000002,South San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/manresa,3,United States of America
+661,Benu,37.78521,-122.39876000000001,San Francisco,California,Asian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/benu,3,United States of America
+662,Quince,37.79762,-122.40337,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/quince,3,United States of America
+663,Atelier Crenn,37.79835,-122.43586,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/atelier-crenn,3,United States of America
+664,The French Laundry,38.40443,-122.36474,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-french-laundry,3,United States of America
+665,The Restaurant at Meadowood,38.52025,-122.46479,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-restaurant-at-meadowood,3,United States of America
+666,SingleThread,38.612164,-122.86970500000001,San Francisco,California,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/singlethread,3,United States of America
+667,Alinea,41.91328,-87.64798,Chicago,Chicago,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/alinea,3,United States of America
+668,Geranium,55.70393000000001,12.57197,København,Denmark,Creative,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/geranium,3,Denmark
+669,T'ang Court,22.296572,114.1698,Hong Kong,Hong Kong,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/t-ang-court,3,Hong Kong
+670,Bo Innovation,22.276139999999998,114.171,Hong Kong,Hong Kong,Innovative,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/bo-innovation,3,Hong Kong
+671,Lung King Heen,22.28665,114.15673999999999,Hong Kong,Hong Kong,Cantonese,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lung-king-heen,3,Hong Kong
+672,Caprice,22.286645999999998,114.15661999999999,Hong Kong,Hong Kong,French,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/caprice,3,Hong Kong
+673,8½ Otto e Mezzo - Bombana,22.28189,114.15839,Hong Kong,Hong Kong,Italian,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/8%C2%BD-otto-e-mezzo-bombana,3,Hong Kong
+674,L'Atelier de Joël Robuchon,22.281198999999997,114.15816000000001,Hong Kong,Hong Kong,French contemporary,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/l-atelier-de-joel-robuchon,3,Hong Kong
+675,Sushi Shikon,22.28511,114.15208,Hong Kong,Hong Kong,Sushi,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-shikon,3,Hong Kong
+676,The Eight,22.190475,113.54341000000001,Macau,Macau,Chinese,$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-eight,3,Macao
+677,Robuchon au Dôme,22.189949,113.54395,Macau,Macau,French contemporary,$$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/robuchon-au-dome,3,Macao
+678,Jade Dragon,22.149137,113.56715,Macau,Macau,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/jade-dragon,3,Macao
+679,Maaemo,59.910477,10.760408,Oslo,Norway,Modern cuisine,$$$$,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/maaemo,3,Norway
+680,Masa,40.76855,-73.98335,New York,New York City,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/masa,3,United States of America
+681,Per Se,40.76828,-73.98292,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se,3,United States of America
+682,Le Bernardin,40.76177,-73.98223,New York,New York City,Seafood,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-bernardin,3,United States of America
+683,Eleven Madison Park,40.7417,-73.98711999999999,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/eleven-madison-park,3,United States of America
+684,Chef's Table at Brooklyn Fare,40.68872,-73.98581,New York,New York City,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/chef-s-table-at-brooklyn-fare,3,United States of America
+685,La Yeon,37.555813,127.00516999999999,Seoul,South Korea,Korean,$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/la-yeon,3,South Korea
+686,Gaon,37.52265,127.03595,Seoul,South Korea,Korean,$$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/gaon,3,South Korea
+687,Frantzén,59.33418,18.058120000000002,Stockholm,Sweden,Modern cuisine,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/frantzen,3,Sweden
+688,Le Palais,25.049495999999998,121.51673999999998,Taipei,Taipei,Cantonese,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/le-palais,3,Taiwan
+689,The Inn at Little Washington,38.713623,-78.16208,"Washington, D.C.",Washington DC,American,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/the-inn-at-little-washington,3,United States of America
+690,Fat Duck,51.50828,-0.7023199999999999,Bray,United Kingdom,Creative,,https://guide.michelin.com/gb/en/buckinghamshire/bray/restaurant/fat-duck,3,United Kingdom
+691,Waterside Inn,51.50773,-0.70121,Bray,United Kingdom,Classic French,,https://guide.michelin.com/gb/en/buckinghamshire/bray/restaurant/waterside-inn,3,United Kingdom
+692,Alain Ducasse at The Dorchester,51.50712,-0.1525201,Mayfair,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/alain-ducasse-at-the-dorchester,3,United Kingdom
+693,The Araki,51.511826,-0.140389,Mayfair,United Kingdom,Japanese,,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/the-araki,3,United Kingdom
+694,Gordon Ramsay,51.485459999999996,-0.1620201,Chelsea,United Kingdom,French,,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/gordon-ramsay,3,United Kingdom
