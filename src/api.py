@@ -55,31 +55,6 @@ def foursquare_request_venues_authorized(request, latitude, longitude, myquery, 
     return json.loads(resp.text)
 
 
-def foursquare_trending_venues_authorized(latitude, longitude, limit=1, radius = 1000):
-    # Requests to foursquare-api:
-    # Input:
-    # ll = '40.7243,-74.0018'.
-    # limit = number of results to return, up to 50. Defaults to 1.
-    # radius = Limit results to venues within this many meters of the specified location. Defaults to 1km.
-    # Returns a list of venues near the current location with the most people currently checked in. 
-    import json
-    import requests
-    import os
-    from dotenv import load_dotenv
-    load_dotenv()
-    url = 'https://api.foursquare.com/v2/venues/trending'
-    params = dict(
-        client_id = os.getenv("FOURSQUARE_CLIENT_ID"),
-        client_secret = os.getenv("FOURSQUARE_CLIENT_SECRET"),
-        v='20180323', # version parameter
-        ll='{},{}'.format(latitude,longitude),  
-        limit=limit,
-        radius=radius
-    )
-    resp = requests.get(url=url, params=params)
-    return json.loads(resp.text)
-
-
 def foursquare_menu_hours_authorized(request, venue_id):
     # Requests to foursquare-api:
     # input = venue id = e.g. AVNU234.
@@ -99,3 +74,22 @@ def foursquare_menu_hours_authorized(request, venue_id):
     resp = requests.get(url=url, params=params)
     return json.loads(resp.text)
 
+
+def foursquare_get_id_authorized(query, latitude, longitude, limit = 1):
+    # get the restaurant id by its name
+    import json
+    import requests
+    import os
+    from dotenv import load_dotenv
+    load_dotenv()
+    url = 'https://api.foursquare.com/v2/venues/search'
+    params = dict(
+        client_id = os.getenv("FOURSQUARE_CLIENT_ID"),
+        client_secret = os.getenv("FOURSQUARE_CLIENT_SECRET"),
+        v='20180323', # version parameter
+        ll='{},{}'.format(latitude,longitude),
+        query = query,
+        limit = limit
+    )
+    resp = requests.get(url=url, params=params)
+    return json.loads(resp.text)

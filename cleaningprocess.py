@@ -12,8 +12,8 @@ load_dotenv()
 from src.api import exchangerate_api_request
 from src.api import battuta_request_authorized
 from src.api import foursquare_request_venues_authorized
-from src.api import foursquare_trending_venues_authorized
 from src.api import foursquare_menu_hours_authorized
+from src.api import foursquare_get_id_authorized
 from src.webscraping import get_soup
 from src.clean import resub_list
 
@@ -204,6 +204,30 @@ for i in range(len(df_final)):
 
 cols = ['name','state','region','city','latitude','longitude','cuisine','stars','min_price_EUR','max_price_EUR','url']
 df_final = df_final[cols]
+
+#..........................................................................................
+
+# Adding some more information from foursquare API:
+
+restaurants_id = []
+restaurants_name = []
+restaurants_address = []
+for i in range(len(df_final)):
+    data = foursquare_get_id_authorized(df_final['name'][i],df_final['latitude'][i],df_final['longitude'][i])['response']['venues']
+    if data:
+        restaurants_id.append(data[0]['id'])
+        restaurants_name.append(data[0]['name'])
+        restaurants_address.append(data[0]['location']['formattedAddress'])
+    else:
+        restaurants_id.append('not found')
+        restaurants_name.append('not found')
+        restaurants_address.append('not found')
+
+df_final['foursquare_id'] = restaurants_id
+df_final['foursquare_name'] = restaurants_name
+df_final['foursquare_address'] = [e[0] for e in restaurants_address]
+
+#..........................................................................................
 
 # df_final.to_csv('./input/cleaned_enriched_df.csv', index=False)
 # df_final = pd.read_csv('./input/cleaned_enriched_df.csv')
