@@ -1,4 +1,4 @@
-                                                                ![Michelin Guide](/images/michelin_petit.png)
+![Michelin Guide](/images/michelin_petit.png)
 
 # Michelin-starred restaurants
 
