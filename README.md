@@ -7,6 +7,8 @@
 
 For this project, I started with a data set of my choice from [kaggle](https://www.kaggle.com/): [Michelin restaurants](https://www.kaggle.com/jackywang529/michelin-restaurants#three-stars-michelin-restaurants.csv). I imported it, used my data wrangling skills to clean it up and built a data pipeline that processes the data and produces a result.
 
+The data set contains all the restaurants rated in the Michelin Guide in the following states: Austria, Brazil, Croatia, Czech Republic, Denmark, Finland, Greece, Hong Kong, Hungary, Ireland, Norway, Poland, Singapore, South Korea, Sweden, Taiwan, Thailand, United Kingdom and United States of America.
+
 ### :woman_cook: Methods:
 
 [...]
