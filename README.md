@@ -1,4 +1,3 @@
-![Michelin Guide](/images/michelin_petit.png)
 # Michelin-starred restaurants
 
 ## Ironhack's Data Analytics Bootcamp Project II: Web Data Pipeline
@@ -36,3 +35,4 @@ For this project, I started with a data set of my choice from [kaggle](https://w
 
 [...]
 
+![Michelin Guide](/images/michelin_petit.png)
