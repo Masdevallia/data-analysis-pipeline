@@ -1,6 +1,6 @@
-![Michelin Guide](/images/michelin_petit.png)
-
 # Michelin-starred restaurants
+
+![Michelin Guide](/images/michelin_petit.png)
 
 ## Ironhack's Data Analytics Bootcamp Project II: Web Data Pipeline
 
@@ -9,15 +9,15 @@
 
 For this project, I started with a data set of my choice from [kaggle](https://www.kaggle.com/): [Michelin restaurants](https://www.kaggle.com/jackywang529/michelin-restaurants#three-stars-michelin-restaurants.csv). I imported it, used my data wrangling skills to clean it up and built a data pipeline that processes the data and produces a result.
 
-### Methods:
+### :woman_cook: Methods:
 
 [...]
 
-### Results:
+### :woman_cook: Results:
 
 [...]
 
-### Deliverables:
+### :woman_cook: Deliverables:
 
 * *input* folder:
     * Initial data sets (*one-star-michelin-restaurants.csv*, *two-stars-michelin-restaurants.csv*, *three-stars-michelin-restaurants.csv*)
@@ -33,7 +33,7 @@ For this project, I started with a data set of my choice from [kaggle](https://w
 * *main.py* contains... [...]
 * *Tests.ipynb* and *Tests_2.ipynb* were used just for testing the code.
 
-### Obstacles encountered and lessons learned:
+### :woman_cook: Obstacles encountered and lessons learned:
 
 [...]
 
