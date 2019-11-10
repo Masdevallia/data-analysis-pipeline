@@ -1,6 +1,5 @@
-# Michelin-starred restaurants
-
 ![Michelin Guide](/images/michelin_petit.png)
+# Michelin-starred restaurants
 
 ## Ironhack's Data Analytics Bootcamp Project II: Web Data Pipeline
 
