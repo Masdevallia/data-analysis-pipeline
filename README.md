@@ -4,9 +4,9 @@
 
 ![Michelin Guide](/images/michelin_2.png)
 
-##
-
 For this project, I started with a data set of my choice: [Michelin restaurants](https://www.kaggle.com/jackywang529/michelin-restaurants#three-stars-michelin-restaurants.csv). I imported it, used my data wrangling skills to clean it up and built a data pipeline that processes the data and produces a result.
+
+![Michelin Guide](/images/michelin_3.png)
 
 ### Methods:
 
