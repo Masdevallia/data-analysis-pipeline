@@ -4,12 +4,16 @@ import pandas as pd
 import numpy as np
 import re
 import requests
+import json
 from bs4 import BeautifulSoup
 import os
 from dotenv import load_dotenv
 load_dotenv()
 from src.api import exchangerate_api_request
 from src.api import battuta_request_authorized
+from src.api import foursquare_request_venues_authorized
+from src.api import foursquare_trending_venues_authorized
+from src.api import foursquare_menu_hours_authorized
 from src.webscraping import get_soup
 from src.clean import resub_list
 
