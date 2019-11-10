@@ -27,10 +27,9 @@ For this project, I started with a data set of my choice from [kaggle](https://w
     1. *apy.py*: functions related to APIs' usage I have imported and used in the pipeline.
     1. *clean.py*: functions ralated to data cleaning/wrangling I have imported and used in the pipeline.
     1. *webscraping.py*: functions related to web scraping process I have imported and used in the pipeline.
-
-* Jupyter Notebooks *Tests.ipynb* and *Tests_2.ipynb* were used just for testing the code.
 * *cleaningprocess.py* contains all Python code and commands used in the importing, cleaning, manipulation, and exporting of the final data set.
 * *main.py* contains... [...]
+* *Tests.ipynb* and *Tests_2.ipynb* were used just for testing the code.
 
 ### Obstacles encountered and lessons learned:
 
