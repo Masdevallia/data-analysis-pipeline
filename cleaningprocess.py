@@ -225,7 +225,7 @@ for i in range(len(df_final)):
 
 df_final['foursquare_id'] = restaurants_id
 df_final['foursquare_name'] = restaurants_name
-df_final['foursquare_address'] = [e[0] for e in restaurants_address]
+df_final['foursquare_address'] = [e if e == 'not found' else e[0] for e in restaurants_address]
 
 #..........................................................................................
 
