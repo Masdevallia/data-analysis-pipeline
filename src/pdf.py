@@ -33,7 +33,7 @@ def createPDF(state, textpdf):
     pdf.ln(15)
     pdf.image('./output/piechart_cuisine_{}.png'.format(state),w=150)
     pdf.output('./output/PieChart-{}.pdf'.format(state), 'F')
-
+    return ['PieChart-{}.pdf'.format(state), './output/PieChart-{}.pdf'.format(state)]
 
 
 

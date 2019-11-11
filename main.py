@@ -4,22 +4,15 @@ import argparse
 
 def get_settings():
     parser = argparse.ArgumentParser(description='Get a Michelin Restaurant from two arguments: state and budget')
-    parser.add_argument('--state',
-                        help='State/country you want to consult.',
-                        default='United States of America',
-                        type = str
-                        )
-    parser.add_argument('--budget',
-                        help='Budget: maximum money you can spend.',
-                        default=100,
-                        type = int
-                        )
+    parser.add_argument('--state', help='State/country you want to consult.',
+                        default='United States of America', type = str)
+    parser.add_argument('--budget', help='Budget: maximum money you can spend.',
+                        default=100, type = int)
     args = parser.parse_args()
     print(args)
     return args
 
 def main():
-    # print(sys.argv)
     config = get_settings()
     # Importing packages:
     import pandas as pd
@@ -32,6 +25,9 @@ def main():
     from src.datavisualization import pie_chart_stars
     from src.datavisualization import pie_chart_cuisine
     from src.pdf import createPDF
+    from src.mail import check_mail
+    from src.mail import send_mail
+
     # Importing the data set:
     df_final = pd.read_csv('./input/cleaned_enriched_df.csv')
     # Filtering:
@@ -44,7 +40,6 @@ def main():
         print('\nThe average minimum price per meal in {} is: {}€.'.format(state, round(df_filtered['min_price_EUR'].mean())))
         print('The average maximum price per meal in {} is: {}€.'.format(state, round(df_filtered['max_price_EUR'].mean())))
         print('\n',df_filtered.groupby(['stars', 'cuisine'])['min_price_EUR','max_price_EUR'].mean().astype(int).reset_index())
-        # print('\n',df_filtered.groupby(['stars', 'cuisine']).agg({'stars':['size'],'min_price_EUR':[np.mean],'max_price_EUR':[np.mean]}).reset_index())
         # Data visualization
         pie_chart_stars([e for e in df_filtered['stars'].value_counts()],df_filtered['stars'].value_counts().index.tolist(),state)
         pie_chart_cuisine([e for e in df_filtered['cuisine'].value_counts()],df_filtered['cuisine'].value_counts().index.tolist(),state)
@@ -59,7 +54,16 @@ def main():
             selected_restaurant.values[0][7],selected_restaurant.values[0][8],selected_restaurant.values[0][9],
             selected_restaurant.values[0][10])
             print(textpdf)
-            createPDF(state,textpdf)
+            pdfreport = createPDF(state,textpdf)
+            byemail=input("\nDo you want to get the report by email?[Y/N]")
+            byemail = byemail.upper()
+            if byemail == 'Y':
+                config.addressee=input("Enter your email address: ")
+                mail = check_mail(config.addressee)
+                send_mail(mail,pdfreport)
+                print('Mail sent!')
+            else:
+                print('You can see the report in the output folder')
             # Web scraping https://guide.michelin.com to get some services:
             soup = get_soup(selected_restaurant.values[0][10])
             services = soup.select('.restaurant-details__services--content')
