@@ -21,13 +21,15 @@ main.py [-h] [--state STATE] [--budget BUDGET]
 
 Optional arguments | Function
 ------------------ | -------------
--h, --help | show this help message and exit
+-h, --help | Show help message and exit
 --state STATE | State/country you want to consult (default = 'United States of America')
 --budget BUDGET | Budget: maximum money you can spend (default = 100)
 
 Examples:
+With quotes or without:
 * *python3 main.py --state 'Thailand' --budget 50*
 * *python3 main.py --state Thailand --budget 50*
+If the name has spaces, quotes must be used:
 * *python3 main.py --state 'United States of America' --budget 100*
 
 ### :woman_cook: Deliverables:
