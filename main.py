@@ -19,14 +19,11 @@ def get_settings():
     return args
 
 def main():
-    print(sys.argv)
-    # STEP 1 - Receive flags and standardize them in a dict.
+    # print(sys.argv)
     config = get_settings()
-    # STEP 2 - Get a Michelin Restaurant from two arguments: state and budget.
     # Importing packages:
     import pandas as pd
     import numpy as np
-    import matplotlib.pyplot as plt
     import random
     import re
     from src.api import foursquare_request_venues_authorized
@@ -48,12 +45,8 @@ def main():
         print('\n',df_filtered.groupby(['stars', 'cuisine'])['min_price_EUR','max_price_EUR'].mean().astype(int).reset_index())
         # print('\n',df_filtered.groupby(['stars', 'cuisine']).agg({'stars':['size'],'min_price_EUR':[np.mean],'max_price_EUR':[np.mean]}).reset_index())
         # Data visualization
-        values = [e for e in df_filtered['stars'].value_counts()]
-        labels = df_filtered['stars'].value_counts().index.tolist()
-        pie_chart_stars(values,labels,state)
-        values = [e for e in df_filtered['cuisine'].value_counts()]
-        labels = df_filtered['cuisine'].value_counts().index.tolist()
-        pie_chart_cuisine(values,labels,state)
+        pie_chart_stars([e for e in df_filtered['stars'].value_counts()],df_filtered['stars'].value_counts().index.tolist(),state)
+        pie_chart_cuisine([e for e in df_filtered['cuisine'].value_counts()],df_filtered['cuisine'].value_counts().index.tolist(),state)
         print('\nYou also have some exploratory data visualization charts in the output folder.')
         # Choosing one restaurant from the available ones:    
         df_filtered_by_price = df_filtered[df_filtered['max_price_EUR'] <= max_price]
