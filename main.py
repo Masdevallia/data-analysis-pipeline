@@ -54,11 +54,11 @@ def main():
         if len(df_filtered_by_price) > 0:
             rowindex = random.choice([e for e in range(len(df_filtered_by_price))])
             selected_restaurant = df_filtered_by_price.iloc[[rowindex]]
-            textpdf = "\nThe Michelin rastaurant selected for you is: {}, which is located in the city of {}.".format(selected_restaurant.values[0][0],selected_restaurant.values[0][3])
-            print("\nThe Michelin rastaurant selected for you is: {}, which is located in the city of {}. It offers {} meals and it's rated with {} star/s. Minimum price per meal: {}€. Maximum price per meal: {}€. You can get more information by visiting {}.".format(
+            textpdf = "\nThe Michelin rastaurant selected for you is: {}, which is located in the city of {}. It offers {} meals and it's rated with {} star/s. Minimum price per meal: {} euros. Maximum price per meal: {} euros. You can get more information by visiting {}".format(
             selected_restaurant.values[0][0],selected_restaurant.values[0][3],selected_restaurant.values[0][6],
             selected_restaurant.values[0][7],selected_restaurant.values[0][8],selected_restaurant.values[0][9],
-            selected_restaurant.values[0][10]))
+            selected_restaurant.values[0][10])
+            print(textpdf)
             createPDF(state,textpdf)
             # Web scraping https://guide.michelin.com to get some services:
             soup = get_soup(selected_restaurant.values[0][10])

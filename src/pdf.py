@@ -6,24 +6,35 @@ def createPDF(state, textpdf):
     from fpdf import FPDF
     pdf = FPDF()
     pdf.add_page()
-    pdf.set_font('Arial', 'B', 16)
-    pdf.multi_cell(0, 10, 'Michelin restaurants in {}'.format(state), align='C')
+    # pdf.set_xy(0, 0)
+    pdf.image('./images/michelin_2.png',w=190)
     pdf.ln(10)
-    pdf.set_font('Arial', '', 12)
-    text='The following pie chart classifies restaurants according to their number of Michelin stars:'
-    pdf.multi_cell(0, 5, text.format(state),align='L')
-    pdf.ln(10)
-    pdf.image('./output/piechart_stars.png',w=145,h=100)
-    pdf.set_font('Arial', '', 12)
-    text='The following pie chart classifies restaurants according to their type of cuisine:'
-    pdf.multi_cell(0, 5, text.format(state),align='L')
-    pdf.ln(10)
-    pdf.image('./output/piechart_cuisine.png',w=160,h=100)
+    pdf.image('./images/michelin_petit.png',w=190)
     pdf.set_font('Arial', '', 12)
     text=textpdf
-    pdf.multi_cell(0, 5, text.format(state),align='L')
+    pdf.multi_cell(0, 10, text, align='L')
     pdf.ln(10)
+    pdf.image('./images/red.png',w=190)
+    pdf.set_font('Arial', 'B', 18)
+    pdf.cell(0, -12, 'Michelin restaurants in {}:'.format(state), align='C')
+    pdf.ln(15)
+    pdf.set_font('Arial', '', 12)
+    text='The following pie chart classifies restaurants according to their number of Michelin stars:'
+    pdf.cell(0, 0, text, align='L')
+    pdf.ln(15)
+    pdf.image('./output/piechart_stars_{}.png'.format(state),w=150)
+    pdf.ln(15)
+    pdf.add_page()
+    pdf.image('./images/michelin_2.png',w=190)
+    pdf.ln(15)
+    pdf.set_font('Arial', '', 12)
+    text='The following pie chart classifies restaurants according to their type of cuisine:'
+    pdf.cell(0, 0, text, align='L')
+    pdf.ln(15)
+    pdf.image('./output/piechart_cuisine_{}.png'.format(state),w=150)
     pdf.output('./output/PieChart-{}.pdf'.format(state), 'F')
+
+
 
 
 '''

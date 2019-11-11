@@ -25,14 +25,14 @@ def pie_chart_stars(valuecounts,labels,state,sort_legend = True):
     centre_circle = plt.Circle((0,0),0.70,fc='white')
     fig = plt.gcf()
     fig.gca().add_artist(centre_circle)   
-    plt.savefig('./output/piechart_stars.png',bbox_inches='tight',dpi=300)
+    plt.savefig('./output/piechart_stars_{}.png'.format(state),bbox_inches='tight',dpi=300)
 
 
 def pie_chart_cuisine(valuecounts,labels,state,sort_legend = True):    
     import matplotlib.pyplot as plt
     import numpy as np
     import random
-    x = np.array([str(e)+' *' for e in labels])
+    x = np.array([e for e in labels])
     y = np.array(valuecounts)
     porcent = 100.*y/y.sum()   
     selected_colors = []
@@ -52,7 +52,7 @@ def pie_chart_cuisine(valuecounts,labels,state,sort_legend = True):
     centre_circle = plt.Circle((0,0),0.70,fc='white')
     fig = plt.gcf()
     fig.gca().add_artist(centre_circle)   
-    plt.savefig('./output/piechart_cuisine.png',bbox_inches='tight',dpi=300)
+    plt.savefig('./output/piechart_cuisine_{}.png'.format(state),bbox_inches='tight',dpi=300)
 
 
 
