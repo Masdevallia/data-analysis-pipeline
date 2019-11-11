@@ -70,7 +70,7 @@ def main():
             xr = re.compile('(\s){2}')
             services_rest = [(xr.sub('',e.text)[3:]).strip() for e in services]
             print('\nServices offered by the restaurant: {}.'.format(' / '.join(services_rest))) 
-            # foursquare API to get opening hours and menu:
+            # foursquare API to get opening hours:
             data_time = foursquare_menu_hours_authorized('hours',selected_restaurant.values[0][11])
             if len(data_time['response']['hours'])>0:
                 print('\nOpening days: {}.'.format(str(data_time['response']['hours']['timeframes'][0]['days']).strip('[|]')))
