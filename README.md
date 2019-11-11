@@ -75,6 +75,8 @@ Reports are dynamically enriched via **web scraping** from https://guide.micheli
 
 ### :woman_cook: Deliverables:
 
+## 
+
 * *cleaningprocess.py*: Contains all Python code and commands used in the importing, cleaning, manipulation, and exporting of the final cleaned and enriched data set.
 * *main.py*: Contains the pipeline.
 * *images* folder: Contains some images displayed in *readme.md* and in the PDF reports.
