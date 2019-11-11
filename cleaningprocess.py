@@ -16,6 +16,7 @@ from src.api import foursquare_menu_hours_authorized
 from src.api import foursquare_get_id_authorized
 from src.webscraping import get_soup
 from src.clean import resub_list
+from src.clean import delete_outliers
 
 # Importing the 3 dataframes:
 df_1star = pd.read_csv('./input/one-star-michelin-restaurants.csv')
@@ -117,22 +118,7 @@ df_final.reset_index(drop=True, inplace=True)
 
 # Deleting otliers:
 df_price = df_final[['min_price_EUR','max_price_EUR']]
-stats = df_price.describe().transpose()
-stats['IQR'] = stats['75%'] - stats['25%']
-
-outliers = pd.DataFrame(columns=df_price.columns)
-for col in stats.index:
-    iqr = stats.at[col,'IQR']
-    cutoff = iqr * 15 # Multiplying by 15 because I'm interested in taking out only very exorbitant outliers
-    lower = stats.at[col,'25%'] - cutoff
-    upper = stats.at[col,'75%'] + cutoff
-    results = df_price[(df_price[col] < lower) | 
-                   (df_price[col] > upper)].copy()
-    results['Outlier'] = col
-    outliers = outliers.append(results)
-
-rowstodelete = list(set(outliers.index))
-
+rowstodelete = delete_outliers(df_price, 15) # cutoff = 15 because I'm interested in taking out only very exorbitant outliers
 df_final.drop(rowstodelete, axis = 0, inplace=True)
 df_final.reset_index(drop=True, inplace=True)
 
