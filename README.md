@@ -13,9 +13,12 @@ The data set contains all the restaurants rated in the Michelin Guide in the fol
 
 [...]
 
-### :woman_cook: Results:
+### :woman_cook: Pipeline usage:
 
-[...]
+Examples:
+*python3 main.py --state 'Thailand' --budget 50*
+*python3 main.py --state Thailand --budget 50*
+*python3 main.py --state 'United States of America' --budget 100*
 
 ### :woman_cook: Deliverables:
 
