@@ -78,6 +78,5 @@ Reports are dynamically enriched via **web scraping** from https://guide.micheli
     * *webscraping.py*: functions related to web scraping process.
 * *cleaningprocess.py* contains all Python code and commands used in the importing, cleaning, manipulation, and exporting of the final cleaned and enriched data set.
 * *main.py* contains the pipeline.
-* Jupyter notebooks (*Tests_Data_cleaning.ipynb*, *Tests_Others.ipynb* and *Tests_Pipeline.ipynb*) were used just for testing the code. 
 
 ![Michelin Guide](/images/michelin_petit.png)
