@@ -15,10 +15,19 @@ The data set contains all the restaurants rated in the Michelin Guide in the fol
 
 ### :woman_cook: Pipeline usage:
 
+Get a Michelin Restaurant from two arguments: state and budget.
+
+main.py [-h] [--state STATE] [--budget BUDGET]
+
+Optional arguments:
+  -h, --help       show this help message and exit
+  --state STATE    State/country you want to consult (default = 'United States of America')
+  --budget BUDGET  Budget: maximum money you can spend (default = 100)
+
 Examples:
-*python3 main.py --state 'Thailand' --budget 50*
-*python3 main.py --state Thailand --budget 50*
-*python3 main.py --state 'United States of America' --budget 100*
+* *python3 main.py --state 'Thailand' --budget 50*
+* *python3 main.py --state Thailand --budget 50*
+* *python3 main.py --state 'United States of America' --budget 100*
 
 ### :woman_cook: Deliverables:
 
