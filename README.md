@@ -49,7 +49,7 @@ Valid states: Austria, Brazil, Croatia, Czech Republic, Denmark, Finland, Greece
 
 #### OUTPUT:
 
-The pipeline creates some reports containing valuable data from the dataset:
+The program returns a restaurant chosen at random from among those that meet the constraints determined by the input parameters. The pipeline also creates some reports containing valuable data from the dataset:
 * Text report printed in console 'stdout': Contains basic statistics and data aggregations.
 * Pie charts (Michelin stars and cuisine types in the selected state).
 * PDF report.
