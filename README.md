@@ -19,10 +19,11 @@ Get a Michelin Restaurant from two arguments: state and budget.
 
 main.py [-h] [--state STATE] [--budget BUDGET]
 
-Optional arguments:
-  -h, --help       show this help message and exit
-  --state STATE    State/country you want to consult (default = 'United States of America')
-  --budget BUDGET  Budget: maximum money you can spend (default = 100)
+Optional arguments | Function
+------------------ | -------------
+-h, --help | show this help message and exit
+--state STATE | State/country you want to consult (default = 'United States of America')
+--budget BUDGET | Budget: maximum money you can spend (default = 100)
 
 Examples:
 * *python3 main.py --state 'Thailand' --budget 50*
@@ -35,15 +36,17 @@ Examples:
     * Initial data sets (*one-star-michelin-restaurants.csv*, *two-stars-michelin-restaurants.csv*, *three-stars-michelin-restaurants.csv*)
     * Cleaned and enriched final data set (*cleaned_enriched_df.csv*)
 * *output* folder:
+    * Pie charts
     * [...]
-    * [...]
-* *src* folder:
-    * *apy.py*: functions related to APIs' usage I have imported and used in the pipeline.
-    * *clean.py*: functions ralated to data cleaning/wrangling I have imported and used in the pipeline.
-    * *webscraping.py*: functions related to web scraping process I have imported and used in the pipeline.
+* *src* folder: Contains functions I have imported and used in the pipeline:
+    * *clean.py*: functions ralated to data cleaning/wrangling.
+    * *apy.py*: functions related to APIs' usage.
+    * *webscraping.py*: functions related to web scraping process.
+    * *datavisualization.py*: functions related to exploratory data visualization (charts).
+* *images* folder: Contains some images displayed in *readme.md*.
 * *cleaningprocess.py* contains all Python code and commands used in the importing, cleaning, manipulation, and exporting of the final data set.
-* *main.py* contains... [...]
-* *Tests.ipynb* and *Tests_2.ipynb* were used just for testing the code.
+* *main.py* contains the pipeline.
+* Jupyter notebook (*Tests_Data_cleaning.ipynb*, *Tests_Others.ipynb* and *Tests_Pipeline.ipynb*) was used just for testing the code.
 
 ### :woman_cook: Obstacles encountered and lessons learned:
 
