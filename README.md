@@ -9,9 +9,13 @@ For this project, I started with a data set of my choice from [kaggle](https://w
 
 The data set contains all the restaurants rated in the Michelin Guide in the following countries/states: Austria, Brazil, Croatia, Czech Republic, Denmark, Finland, Greece, Hong Kong, Hungary, Ireland, Norway, Poland, Singapore, South Korea, Sweden, Taiwan, Thailand, United Kingdom and United States of America.
 
+## 
+
 ### :woman_cook: Methods:
 
 [...]
+
+## 
 
 ### :woman_cook: Pipeline usage:
 
@@ -25,12 +29,14 @@ Optional arguments | Function
 --state STATE | State/country you want to consult (default = 'United States of America')
 --budget BUDGET | Budget: maximum money you can spend (default = 100)
 
-Examples:
-With quotes or without:
+#### Examples:
+##### With quotes or without:
 * *python3 main.py --state 'Thailand' --budget 50*
 * *python3 main.py --state Thailand --budget 50*
-If the name has spaces, quotes must be used:
+##### If the name has spaces, quotes must be used:
 * *python3 main.py --state 'United States of America' --budget 100*
+
+## 
 
 ### :woman_cook: Deliverables:
 
@@ -49,6 +55,8 @@ If the name has spaces, quotes must be used:
 * *cleaningprocess.py* contains all Python code and commands used in the importing, cleaning, manipulation, and exporting of the final data set.
 * *main.py* contains the pipeline.
 * Jupyter notebook (*Tests_Data_cleaning.ipynb*, *Tests_Others.ipynb* and *Tests_Pipeline.ipynb*) was used just for testing the code.
+
+## 
 
 ### :woman_cook: Obstacles encountered and lessons learned:
 
