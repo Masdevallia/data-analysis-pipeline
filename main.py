@@ -31,6 +31,7 @@ def main():
     from src.webscraping import get_soup
     from src.datavisualization import pie_chart_stars
     from src.datavisualization import pie_chart_cuisine
+    from src.pdf import createPDF
     # Importing the data set:
     df_final = pd.read_csv('./input/cleaned_enriched_df.csv')
     # Filtering:
@@ -57,6 +58,8 @@ def main():
             selected_restaurant.values[0][0],selected_restaurant.values[0][3],selected_restaurant.values[0][6],
             selected_restaurant.values[0][7],selected_restaurant.values[0][8],selected_restaurant.values[0][9],
             selected_restaurant.values[0][10]))
+            createPDF(state,'stars')
+            createPDF(state,'cuisine')
             # Web scraping https://guide.michelin.com to get some services:
             soup = get_soup(selected_restaurant.values[0][10])
             services = soup.select('.restaurant-details__services--content')
@@ -69,7 +72,7 @@ def main():
                 print('\nOpening days: {}.'.format(str(data_time['response']['hours']['timeframes'][0]['days']).strip('[|]')))
                 print('Opening hours: from {}h to {}h.'.format(
                 data_time['response']['hours']['timeframes'][0]['open'][0]['start'][:2],
-                data_time['response']['hours']['timeframes'][0]['open'][0]['end'][:2]))
+                data_time['response']['hours']['timeframes'][0]['open'][0]['end'][:2]))          
             # Do you want to see a movie afterwards?
             movie=input("\nDo you want to see a movie afterwards?[Y/N]")
             movie = movie.upper()
