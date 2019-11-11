@@ -1,10 +1,9 @@
 # <p align="center">Michelin-starred restaurants</p>
 
-<p align="center"><i>Choose country and budget, get a Michelin-starred restaurant</i></p>
-
 ## <p align="center">Ironhack's Data Analytics Bootcamp Project II: Web Data Pipeline</p>
 
 ![Michelin Guide](/images/michelin_2.png)
+<p align="center"><i>Choose country and budget, get a Michelin-starred restaurant</i></p>
 ![Michelin Guide](/images/michelin_3.png)
 
 For this project, I started with a data set of my choice from [kaggle](https://www.kaggle.com/): [Michelin restaurants](https://www.kaggle.com/jackywang529/michelin-restaurants#three-stars-michelin-restaurants.csv). I imported it, used my data wrangling skills to clean it up and built a data pipeline that processes the data and produces a result.
@@ -70,7 +69,7 @@ The program returns a restaurant chosen at random from among those that meet the
 Reports are dynamically enriched via **web scraping** from https://guide.michelin.com and through the [Foursquare API](https://api.foursquare.com) (requires authentication via token), in order to get: Restaurant services, opening days and hours and a recommendation of a nearby cinema to go to after lunch/dinner.
 
 
-<p align="center"><img  src="https://github.com/Masdevallia/data-analysis-pipeline/blob/master/images/input_output.png" width="500"></p>
+<p align="center"><img  src="https://github.com/Masdevallia/data-analysis-pipeline/blob/master/images/input_output.png" width="700"></p>
 
 ## 
 
