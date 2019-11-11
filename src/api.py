@@ -2,8 +2,10 @@
 # API related functions:
 
 def exchangerate_api_request(currency):
-    # Requests to exchangerate-api
-    # currency must be a string of three capital letters: e.g. EUR
+    '''
+    Requests to exchangerate-api
+    currency must be a string of three capital letters: e.g. EUR
+    '''
     import requests
     url = "https://api.exchangerate-api.com/v4/latest/{}".format(currency)
     res = requests.get(url)
@@ -11,7 +13,9 @@ def exchangerate_api_request(currency):
 
 
 def battuta_request_authorized(resource):
-    # Requests to battuta(countries/regions/cities)-api
+    '''
+    Requests to battuta(countries/regions/cities)-api
+    '''
     import requests
     import os
     from dotenv import load_dotenv
@@ -27,15 +31,17 @@ def battuta_request_authorized(resource):
 
 
 def foursquare_request_venues_authorized(request, latitude, longitude, myquery, limit=1, radius = 1000):
-    # Requests to foursquare-api:
-    # Input:
-    # request: string:
-    # 1) 'search': Returns a list of venues near the current location, matching a search term.
-    # 2) 'explore': Returns a list of recommended venues near the current location.
-    # ll = '40.7243,-74.0018'.
-    # query = a search term to be applied against venue names: 'coffee'.
-    # limit = number of results to return, up to 50. Defaults to 1.
-    # radius = Limit results to venues within this many meters of the specified location. Defaults to 1km.
+    '''
+    Requests to foursquare-api:
+    Input:
+    request: string:
+    1) 'search': Returns a list of venues near the current location, matching a search term.
+    2) 'explore': Returns a list of recommended venues near the current location.
+    ll = '40.7243,-74.0018'.
+    query = a search term to be applied against venue names: 'coffee'.
+    limit = number of results to return, up to 50. Defaults to 1.
+    radius = Limit results to venues within this many meters of the specified location. Defaults to 1km.
+    '''
     import json
     import requests
     import os
@@ -56,10 +62,12 @@ def foursquare_request_venues_authorized(request, latitude, longitude, myquery, 
 
 
 def foursquare_menu_hours_authorized(request, venue_id):
-    # Requests to foursquare-api:
-    # input = venue id = e.g. AVNU234.
-    # 'menu': Returns menu information for a venue.
-    # 'hours': Returns hours for a venue.
+    '''
+    Requests to foursquare-api:
+    input = venue id = e.g. AVNU234.
+    'menu': Returns menu information for a venue.
+    'hours': Returns hours for a venue.
+    '''
     import json
     import requests
     import os
@@ -76,7 +84,9 @@ def foursquare_menu_hours_authorized(request, venue_id):
 
 
 def foursquare_get_id_authorized(query, latitude, longitude, limit = 1):
-    # get the restaurant id by its name
+    '''
+    get the restaurant id by its name
+    '''
     import json
     import requests
     import os
