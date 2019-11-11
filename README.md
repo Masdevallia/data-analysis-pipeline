@@ -1,6 +1,8 @@
-# Michelin-starred restaurants
+# <p align="center">Michelin-starred restaurants</p>
 
-## Ironhack's Data Analytics Bootcamp Project II: Web Data Pipeline
+## <p align="center">Ironhack's Data Analytics Bootcamp Project II: Web Data Pipeline</p>
+
+<p align="center">Choose country and budget, get a Michelin-starred restaurant</p>
 
 ![Michelin Guide](/images/michelin_2.png)
 ![Michelin Guide](/images/michelin_3.png)
@@ -29,8 +31,6 @@ The final data set contains all the restaurants rated in the Michelin Guide (wit
 ## 
 
 ### INPUT:
-
-Pipeline = Get a Michelin Restaurant from two arguments: state and budget.
 
 The pipeline receives 2 parameters via command-line arguments. I used 'argparse' for this task. This parameters are used to dynamically filter the dataset.
 
@@ -69,7 +69,8 @@ The program returns a restaurant chosen at random from among those that meet the
 
 Reports are dynamically enriched via **web scraping** from https://guide.michelin.com and through the [Foursquare API](https://api.foursquare.com) (requires authentication via token), in order to get: Restaurant services, opening days and hours and a recommendation of a nearby cinema to go to after lunch/dinner.
 
-![commandline](/images/input_output.png)
+
+<p align="center"><img  src="https://github.com/Masdevallia/data-analysis-pipeline/blob/master/images/input_output.png" width="200"></p>
 
 ## 
 
