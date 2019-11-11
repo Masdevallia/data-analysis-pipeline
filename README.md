@@ -11,6 +11,8 @@ For this project, I started with a data set of my choice from [kaggle](https://w
 
 ### :woman_cook: STEP 1. Cleaning and enriching the dataset [*cleaningprocess.py*]:
 
+## 
+
 The dataset was cleaned and enriched beforehand:
 * NaN values in 'city' variable were filled via **web scraping** with python 'requests' module from https://guide.michelin.com.
 * Restaurants minimum and maximum mean price were obtained via **web scraping** from https://guide.michelin.com.
@@ -28,7 +30,7 @@ The final data set contains all the restaurants rated in the Michelin Guide (wit
 
 ### INPUT:
 
-Get a Michelin Restaurant from two arguments: state and budget:
+Pipeline = Get a Michelin Restaurant from two arguments: state and budget.
 
 The pipeline receives 2 parameters via command-line arguments. I used 'argparse' for this task. This parameters are used to dynamically filter the dataset.
 
@@ -59,7 +61,7 @@ Valid states: Austria, Brazil, Croatia, Czech Republic, Denmark, Finland, Greece
 
 ### OUTPUT:
 
-**The program returns a restaurant chosen at random from among those that meet the constraints determined by the input parameters**. The pipeline also creates some reports containing valuable data from the dataset:
+The program returns a restaurant chosen at random from among those that meet the constraints determined by the input parameters. The pipeline also creates some reports containing valuable data from the dataset:
 * Text report printed in console 'stdout': Contains basic statistics and data aggregations.
 * Pie charts (Michelin stars and cuisine types in the selected state).
 * PDF report.
