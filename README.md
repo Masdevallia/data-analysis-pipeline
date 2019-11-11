@@ -13,7 +13,7 @@ For this project, I started with a data set of my choice from [kaggle](https://w
 
 ### STEP 1. Cleaning and enriching the dataset [*cleaningprocess.py*]:
 
-The dataset was cleaned and enreached beforehand:
+The dataset was cleaned and enriched beforehand:
 * NaN values in 'city' column were filled via **web scraping** with python 'requests' module from https://guide.michelin.com.
 * Restaurants minimum and maximum mean price were obtained via **web scraping** from https://guide.michelin.com.
 * Prices were converted to euros through the [**Exchangerate API**](https://api.exchangerate-api.com/) and via **web scraping** for those currencies not included in the API
