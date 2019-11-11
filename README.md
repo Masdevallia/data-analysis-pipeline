@@ -68,6 +68,7 @@ The program returns a restaurant chosen at random from among those that meet the
 
 Reports are dynamically enriched via **web scraping** from https://guide.michelin.com and through the [Foursquare API](https://api.foursquare.com) (requires authentication via token), in order to get: Restaurant services, opening days and hours and a recommendation of a nearby cinema to go to after lunch/dinner.
 
+## 
 
 <p align="center"><img  src="https://github.com/Masdevallia/data-analysis-pipeline/blob/master/images/input_output.png" width="700"></p>
 
