@@ -1,11 +1,37 @@
 
 # Functions related to exporting the report output to a PDF file:
 
+def createPDF(state, textpdf):
+    print('\nOne moment, please, a pdf report is being created...')
+    from fpdf import FPDF
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_font('Arial', 'B', 16)
+    pdf.multi_cell(0, 10, 'Michelin restaurants in {}'.format(state), align='C')
+    pdf.ln(10)
+    pdf.set_font('Arial', '', 12)
+    text='The following pie chart classifies restaurants according to their number of Michelin stars:'
+    pdf.multi_cell(0, 5, text.format(state),align='L')
+    pdf.ln(10)
+    pdf.image('./output/piechart_stars.png',w=145,h=100)
+    pdf.set_font('Arial', '', 12)
+    text='The following pie chart classifies restaurants according to their type of cuisine:'
+    pdf.multi_cell(0, 5, text.format(state),align='L')
+    pdf.ln(10)
+    pdf.image('./output/piechart_cuisine.png',w=160,h=100)
+    pdf.set_font('Arial', '', 12)
+    text=textpdf
+    pdf.multi_cell(0, 5, text.format(state),align='L')
+    pdf.ln(10)
+    pdf.output('./output/PieChart-{}.pdf'.format(state), 'F')
+
+
+'''
+OLD VERSION
+
 def createPDF(state, typechart):
-    '''
-    typechart = 'cuisine'
-    typechart = 'stars'
-    '''
+    # typechart = 'cuisine'
+    # typechart = 'stars'
     print('\nOne moment, please, a pdf report is being created...')
     from fpdf import FPDF
     if typechart == 'cuisine':
@@ -14,13 +40,16 @@ def createPDF(state, typechart):
         sentence = 'number of Michelin stars'
     pdf = FPDF()
     pdf.add_page()
+
     pdf.set_font('Arial', 'B', 16)
     pdf.multi_cell(0, 10, 'Michelin restaurants in {}'.format(state), align='C')
     pdf.ln(10)
+
     pdf.set_font('Arial', '', 12)
     text='The following pie chart classifies restaurants according to their {}.'.format(sentence)
     pdf.multi_cell(0, 5, text.format(state,typechart),align='L')
     pdf.ln(10)
-    pdf.image('./output/piechart_{}.png'.format(typechart),w=150,h=100)
-    pdf.output('./output/PieChart-{}-{}.pdf'.format(state,typechart), 'F')
 
+    pdf.image('./output/piechart_{}.png'.format(typechart)) # ,w=150,h=100
+    pdf.output('./output/PieChart-{}-{}.pdf'.format(state,typechart), 'F')
+'''
