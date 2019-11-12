@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import sys
 import argparse
 
@@ -9,7 +8,6 @@ def get_settings():
     parser.add_argument('--budget', help='Budget: maximum money you can spend.',
                         default=100, type = int)
     args = parser.parse_args()
-    print(args)
     return args
 
 def main():
