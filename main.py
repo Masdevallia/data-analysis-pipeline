@@ -27,7 +27,6 @@ def main():
     from src.pdf import createPDF
     from src.mail import check_mail
     from src.mail import send_mail
-
     # Importing the data set:
     df_final = pd.read_csv('./input/cleaned_enriched_df.csv')
     # Filtering:
@@ -64,7 +63,7 @@ def main():
                 print('Mail sent!')
             else:
                 print('You can see the report in the output folder')
-            # Web scraping https://guide.michelin.com to get some services:
+            # Web scraping https://guide.michelin.com to get restaurant services:
             soup = get_soup(selected_restaurant.values[0][10])
             services = soup.select('.restaurant-details__services--content')
             xr = re.compile('(\s){2}')
